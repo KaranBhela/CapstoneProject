@@ -1,0 +1,969 @@
+2021-10-18 19:33:18,683 [main] INFO logger_File - Actual Title is matching with expected title
+2021-10-18 19:33:18,733 [main] INFO logger_File - user clicked on MyAccount
+2021-10-18 19:33:18,951 [main] INFO logger_File - user clicked on Login Option
+2021-10-18 19:33:19,073 [main] INFO logger_File - user Enter eagles@tekschool.usand password eagles
+2021-10-18 19:33:19,580 [main] INFO logger_File - user clicked on Login Button
+2021-10-18 19:33:19,621 [main] INFO logger_File - user is logged in to MyAccount Dashboard
+2021-10-18 19:33:49,028 [main] INFO logger_File - Actual Title is matching with expected title
+2021-10-18 19:33:49,080 [main] INFO logger_File - user clicked on MyAccount
+2021-10-18 19:33:49,645 [main] INFO logger_File - user clicked on Login Option
+2021-10-18 19:33:49,766 [main] INFO logger_File - user Enter eagles@tekschool.usand password eagles
+2021-10-18 19:33:51,163 [main] INFO logger_File - user clicked on Login Button
+2021-10-18 19:33:51,202 [main] INFO logger_File - user is logged in to MyAccount Dashboard
+2021-10-18 19:41:21,152 [main] INFO logger_File - Scenario Retail website Login test Started
+2021-10-18 19:41:24,927 [main] INFO logger_File - Actual Title is matching with expected title
+2021-10-18 19:41:24,976 [main] INFO logger_File - user clicked on MyAccount
+2021-10-18 19:41:25,299 [main] INFO logger_File - user clicked on Login Option
+2021-10-18 19:41:25,422 [main] INFO logger_File - user Enter eagles@tekschool.usand password eagles
+2021-10-18 19:41:26,850 [main] INFO logger_File - user clicked on Login Button
+2021-10-18 19:41:26,890 [main] INFO logger_File - user is logged in to MyAccount Dashboard
+2021-10-18 19:41:27,511 [main] INFO logger_File - Scenario Retail website Login test PASSED
+2021-10-18 19:59:08,128 [main] INFO logger_File - Scenario Retail website Login test Started
+2021-10-18 19:59:11,604 [main] INFO logger_File - Actual Title is matching with expected title
+2021-10-18 19:59:12,008 [main] INFO logger_File - user clicked on MyAccount
+2021-10-18 19:59:12,240 [main] INFO logger_File - user clicked on Login Option
+2021-10-18 19:59:12,538 [main] INFO logger_File - user Enter eagles@tekschool.usand password eagles
+2021-10-18 19:59:13,184 [main] INFO logger_File - user clicked on Login Button
+2021-10-18 19:59:13,230 [main] INFO logger_File - user is logged in to MyAccount Dashboard
+2021-10-18 19:59:14,010 [main] INFO logger_File - Scenario Retail website Login test PASSED
+2021-10-18 20:02:16,522 [main] INFO logger_File - Scenario Retail website Login test Started
+2021-10-18 20:02:19,954 [main] INFO logger_File - Actual Title is matching with expected title
+2021-10-18 20:02:20,352 [main] INFO logger_File - user clicked on MyAccount
+2021-10-18 20:02:20,817 [main] INFO logger_File - user clicked on Login Option
+2021-10-18 20:02:21,107 [main] INFO logger_File - user Enter eagles@tekschool.usand password eagles
+2021-10-18 20:02:21,769 [main] INFO logger_File - user clicked on Login Button
+2021-10-18 20:02:21,812 [main] INFO logger_File - user is logged in to MyAccount Dashboard
+2021-10-18 20:02:22,590 [main] INFO logger_File - Scenario Retail website Login test PASSED
+2021-10-18 20:30:50,332 [main] INFO logger_File - Scenario Retail website Login test Started
+2021-10-18 20:30:54,046 [main] INFO logger_File - Actual Title is matching with expected title
+2021-10-18 20:30:54,353 [main] INFO logger_File - user clicked on MyAccount
+2021-10-18 20:30:54,661 [main] INFO logger_File - user clicked on Login Option
+2021-10-18 20:30:54,954 [main] INFO logger_File - user Enter eagles@tekschool.usand password eagles
+2021-10-18 20:30:55,520 [main] INFO logger_File - user clicked on Login Button
+2021-10-18 20:30:55,562 [main] INFO logger_File - user is logged in to MyAccount Dashboard
+2021-10-18 20:30:56,345 [main] INFO logger_File - Scenario Retail website Login test PASSED
+2021-10-18 20:30:56,355 [main] INFO logger_File - Scenario Retail website Login test with multiple accounts Started
+2021-10-18 20:31:00,831 [main] INFO logger_File - Actual Title is matching with expected title
+2021-10-18 20:31:01,103 [main] INFO logger_File - user clicked on MyAccount
+2021-10-18 20:31:01,345 [main] INFO logger_File - user clicked on Login Option
+2021-10-18 20:31:01,653 [main] INFO logger_File - user Enter eagles@tekschool.usand password eagles
+2021-10-18 20:31:02,287 [main] INFO logger_File - user clicked on Login Button
+2021-10-18 20:31:02,320 [main] INFO logger_File - user is logged in to MyAccount Dashboard
+2021-10-18 20:31:03,063 [main] INFO logger_File - Scenario Retail website Login test with multiple accounts PASSED
+2021-10-18 20:31:03,069 [main] INFO logger_File - Scenario Retail website Login test with multiple accounts Started
+2021-10-18 20:31:07,994 [main] INFO logger_File - Actual Title is matching with expected title
+2021-10-18 20:31:08,278 [main] INFO logger_File - user clicked on MyAccount
+2021-10-18 20:31:08,697 [main] INFO logger_File - user clicked on Login Option
+2021-10-18 20:31:08,988 [main] INFO logger_File - user Enter hawks@tekschool.usand password hawks
+2021-10-18 20:31:09,595 [main] INFO logger_File - user clicked on Login Button
+2021-10-18 20:31:09,626 [main] INFO logger_File - user is logged in to MyAccount Dashboard
+2021-10-18 20:31:10,427 [main] INFO logger_File - Scenario Retail website Login test with multiple accounts PASSED
+2021-10-18 20:31:10,432 [main] INFO logger_File - Scenario Retail website Login test with multiple accounts Started
+2021-10-18 20:31:14,069 [main] INFO logger_File - Actual Title is matching with expected title
+2021-10-18 20:31:14,357 [main] INFO logger_File - user clicked on MyAccount
+2021-10-18 20:31:14,556 [main] INFO logger_File - user clicked on Login Option
+2021-10-18 20:31:14,852 [main] INFO logger_File - user Enter falcons@tekschool.usand password falcons
+2021-10-18 20:31:15,352 [main] INFO logger_File - user clicked on Login Button
+2021-10-18 20:31:15,384 [main] INFO logger_File - user is logged in to MyAccount Dashboard
+2021-10-18 20:31:16,130 [main] INFO logger_File - Scenario Retail website Login test with multiple accounts PASSED
+2021-10-18 20:49:25,905 [main] INFO logger_File - Scenario Retail website Login test Started
+2021-10-18 20:49:30,009 [main] INFO logger_File - Scenario Retail website Login test with multiple accounts Started
+2021-10-18 20:49:30,968 [main] INFO logger_File - Scenario Retail website Login test with multiple accounts Started
+2021-10-18 20:49:31,953 [main] INFO logger_File - Scenario Retail website Login test with multiple accounts Started
+2021-10-18 20:51:10,886 [main] INFO logger_File - Scenario Retail website Login test Started
+2021-10-18 20:51:12,474 [main] INFO logger_File - Scenario Retail website Login test with multiple accounts Started
+2021-10-18 20:51:13,415 [main] INFO logger_File - Scenario Retail website Login test with multiple accounts Started
+2021-10-18 20:51:14,314 [main] INFO logger_File - Scenario Retail website Login test with multiple accounts Started
+2021-10-18 20:52:39,670 [main] INFO logger_File - Scenario Retail website Login test Started
+2021-10-18 20:52:43,232 [main] INFO logger_File - Actual Title is matching with expected title
+2021-10-18 20:52:43,631 [main] INFO logger_File - user clicked on MyAccount
+2021-10-18 20:52:43,838 [main] INFO logger_File - user clicked on Login Option
+2021-10-18 20:52:44,139 [main] INFO logger_File - user Enter eagles@tekschool.usand password eagles
+2021-10-18 20:52:44,644 [main] INFO logger_File - user clicked on Login Button
+2021-10-18 20:52:44,688 [main] INFO logger_File - user is logged in to MyAccount Dashboard
+2021-10-18 20:52:45,456 [main] INFO logger_File - Scenario Retail website Login test PASSED
+2021-10-18 20:52:45,467 [main] INFO logger_File - Scenario Retail website Login test with multiple accounts Started
+2021-10-18 20:52:48,069 [main] INFO logger_File - Actual Title is matching with expected title
+2021-10-18 20:52:48,450 [main] INFO logger_File - user clicked on MyAccount
+2021-10-18 20:52:48,667 [main] INFO logger_File - user clicked on Login Option
+2021-10-18 20:52:48,976 [main] INFO logger_File - user Enter eagles@tekschool.usand password eagles
+2021-10-18 20:52:49,586 [main] INFO logger_File - user clicked on Login Button
+2021-10-18 20:52:49,619 [main] INFO logger_File - user is logged in to MyAccount Dashboard
+2021-10-18 20:52:50,398 [main] INFO logger_File - Scenario Retail website Login test with multiple accounts PASSED
+2021-10-18 20:52:50,405 [main] INFO logger_File - Scenario Retail website Login test with multiple accounts Started
+2021-10-18 20:52:54,245 [main] INFO logger_File - Actual Title is matching with expected title
+2021-10-18 20:52:54,530 [main] INFO logger_File - user clicked on MyAccount
+2021-10-18 20:52:54,817 [main] INFO logger_File - user clicked on Login Option
+2021-10-18 20:52:55,137 [main] INFO logger_File - user Enter hawks@tekschool.usand password hawks
+2021-10-18 20:52:55,784 [main] INFO logger_File - user clicked on Login Button
+2021-10-18 20:52:55,814 [main] INFO logger_File - user is logged in to MyAccount Dashboard
+2021-10-18 20:52:56,596 [main] INFO logger_File - Scenario Retail website Login test with multiple accounts PASSED
+2021-10-18 20:52:56,601 [main] INFO logger_File - Scenario Retail website Login test with multiple accounts Started
+2021-10-18 20:53:00,555 [main] INFO logger_File - Actual Title is matching with expected title
+2021-10-18 20:53:00,846 [main] INFO logger_File - user clicked on MyAccount
+2021-10-18 20:53:01,101 [main] INFO logger_File - user clicked on Login Option
+2021-10-18 20:53:01,405 [main] INFO logger_File - user Enter falcons@tekschool.usand password falcons
+2021-10-18 20:53:02,004 [main] INFO logger_File - user clicked on Login Button
+2021-10-18 20:53:02,035 [main] INFO logger_File - user is logged in to MyAccount Dashboard
+2021-10-18 20:53:02,818 [main] INFO logger_File - Scenario Retail website Login test with multiple accounts PASSED
+2021-10-18 20:53:50,152 [main] INFO logger_File - Scenario Retail website Login test Started
+2021-10-18 20:53:59,216 [main] INFO logger_File - Actual Title is matching with expected title
+2021-10-18 20:53:59,609 [main] INFO logger_File - user clicked on MyAccount
+2021-10-18 20:53:59,829 [main] INFO logger_File - user clicked on Login Option
+2021-10-18 20:53:59,974 [main] INFO logger_File - user Enter eagles@tekschool.usand password eagles
+2021-10-18 20:54:00,423 [main] INFO logger_File - user clicked on Login Button
+2021-10-18 20:54:00,456 [main] INFO logger_File - user is logged in to MyAccount Dashboard
+2021-10-18 20:54:01,154 [main] INFO logger_File - Scenario Retail website Login test with multiple accounts Started
+2021-10-18 20:54:07,153 [main] INFO logger_File - Actual Title is matching with expected title
+2021-10-18 20:54:07,524 [main] INFO logger_File - user clicked on MyAccount
+2021-10-18 20:54:07,818 [main] INFO logger_File - user clicked on Login Option
+2021-10-18 20:54:07,987 [main] INFO logger_File - user Enter eagles@tekschool.usand password eagles
+2021-10-18 20:54:08,487 [main] INFO logger_File - user clicked on Login Button
+2021-10-18 20:54:08,512 [main] INFO logger_File - user is logged in to MyAccount Dashboard
+2021-10-18 20:54:09,210 [main] INFO logger_File - Scenario Retail website Login test with multiple accounts Started
+2021-10-18 20:54:15,820 [main] INFO logger_File - Actual Title is matching with expected title
+2021-10-18 20:54:16,191 [main] INFO logger_File - user clicked on MyAccount
+2021-10-18 20:54:16,420 [main] INFO logger_File - user clicked on Login Option
+2021-10-18 20:54:16,543 [main] INFO logger_File - user Enter hawks@tekschool.usand password hawks
+2021-10-18 20:54:17,071 [main] INFO logger_File - user clicked on Login Button
+2021-10-18 20:54:17,094 [main] INFO logger_File - user is logged in to MyAccount Dashboard
+2021-10-18 20:54:17,755 [main] INFO logger_File - Scenario Retail website Login test with multiple accounts Started
+2021-10-18 20:54:22,724 [main] INFO logger_File - Actual Title is matching with expected title
+2021-10-18 20:54:23,090 [main] INFO logger_File - user clicked on MyAccount
+2021-10-18 20:54:23,276 [main] INFO logger_File - user clicked on Login Option
+2021-10-18 20:54:23,413 [main] INFO logger_File - user Enter falcons@tekschool.usand password falcons
+2021-10-18 20:54:23,827 [main] INFO logger_File - user clicked on Login Button
+2021-10-18 20:54:23,851 [main] INFO logger_File - user is logged in to MyAccount Dashboard
+2021-10-18 21:08:01,339 [main] INFO logger_File - Scenario Retail website Login test Started
+2021-10-18 21:08:08,386 [main] INFO logger_File - Scenario Retail website Login test with multiple accounts Started
+2021-10-18 21:08:33,095 [main] INFO logger_File - Scenario Retail website Login test Started
+2021-10-18 21:08:37,241 [main] INFO logger_File - Actual Title is matching with expected title
+2021-10-18 21:08:37,665 [main] INFO logger_File - user clicked on MyAccount
+2021-10-18 21:08:38,451 [main] INFO logger_File - user clicked on Login Option
+2021-10-18 21:08:38,752 [main] INFO logger_File - user Enter eagles@tekschool.usand password eagles
+2021-10-18 21:08:39,503 [main] INFO logger_File - user clicked on Login Button
+2021-10-18 21:08:39,546 [main] INFO logger_File - user is logged in to MyAccount Dashboard
+2021-10-18 21:08:40,318 [main] INFO logger_File - Scenario Retail website Login test PASSED
+2021-10-18 21:08:40,731 [main] INFO logger_File - Scenario Retail website Login test with multiple accounts Started
+2021-10-18 21:08:44,316 [main] INFO logger_File - Actual Title is matching with expected title
+2021-10-18 21:08:44,613 [main] INFO logger_File - user clicked on MyAccount
+2021-10-18 21:08:44,907 [main] INFO logger_File - user clicked on Login Option
+2021-10-18 21:08:45,190 [main] INFO logger_File - user Enter eagles@tekschool.usand password eagles
+2021-10-18 21:08:45,884 [main] INFO logger_File - user clicked on Login Button
+2021-10-18 21:08:45,916 [main] INFO logger_File - user is logged in to MyAccount Dashboard
+2021-10-18 21:08:46,669 [main] INFO logger_File - Scenario Retail website Login test with multiple accounts PASSED
+2021-10-18 21:08:46,721 [main] INFO logger_File - Scenario Retail website Login test with multiple accounts Started
+2021-10-18 21:08:50,502 [main] INFO logger_File - Actual Title is matching with expected title
+2021-10-18 21:08:50,792 [main] INFO logger_File - user clicked on MyAccount
+2021-10-18 21:08:51,244 [main] INFO logger_File - user clicked on Login Option
+2021-10-18 21:08:51,523 [main] INFO logger_File - user Enter hawks@tekschool.usand password hawks
+2021-10-18 21:08:52,088 [main] INFO logger_File - user clicked on Login Button
+2021-10-18 21:08:52,120 [main] INFO logger_File - user is logged in to MyAccount Dashboard
+2021-10-18 21:08:52,870 [main] INFO logger_File - Scenario Retail website Login test with multiple accounts PASSED
+2021-10-18 21:08:52,914 [main] INFO logger_File - Scenario Retail website Login test with multiple accounts Started
+2021-10-18 21:08:56,857 [main] INFO logger_File - Actual Title is matching with expected title
+2021-10-18 21:08:57,171 [main] INFO logger_File - user clicked on MyAccount
+2021-10-18 21:08:57,402 [main] INFO logger_File - user clicked on Login Option
+2021-10-18 21:08:57,701 [main] INFO logger_File - user Enter falcons@tekschool.usand password falcons
+2021-10-18 21:08:58,234 [main] INFO logger_File - user clicked on Login Button
+2021-10-18 21:08:58,264 [main] INFO logger_File - user is logged in to MyAccount Dashboard
+2021-10-18 21:08:59,014 [main] INFO logger_File - Scenario Retail website Login test with multiple accounts PASSED
+2021-10-18 21:13:02,065 [main] INFO logger_File - Scenario Retail website Login test Started
+2021-10-18 21:13:05,680 [main] INFO logger_File - Actual Title is matching with expected title
+2021-10-18 21:13:06,017 [main] INFO logger_File - user clicked on MyAccount
+2021-10-18 21:13:06,512 [main] INFO logger_File - user clicked on Login Option
+2021-10-18 21:13:06,814 [main] INFO logger_File - user Enter eagles@tekschool.usand password eagles
+2021-10-18 21:13:07,402 [main] INFO logger_File - user clicked on Login Button
+2021-10-18 21:13:07,444 [main] INFO logger_File - user is logged in to MyAccount Dashboard
+2021-10-18 21:13:08,218 [main] INFO logger_File - Scenario Retail website Login test PASSED
+2021-10-18 21:13:45,361 [main] INFO logger_File - Scenario Retail website Login test Started
+2021-10-18 21:13:48,639 [main] INFO logger_File - Actual Title is matching with expected title
+2021-10-18 21:13:49,017 [main] INFO logger_File - user clicked on MyAccount
+2021-10-18 21:13:50,225 [main] INFO logger_File - user clicked on Login Option
+2021-10-18 21:13:50,502 [main] INFO logger_File - user Enter eagles@tekschool.usand password eagles
+2021-10-18 21:13:52,812 [main] INFO logger_File - user clicked on Login Button
+2021-10-18 21:13:52,854 [main] INFO logger_File - user is logged in to MyAccount Dashboard
+2021-10-18 21:13:53,619 [main] INFO logger_File - Scenario Retail website Login test PASSED
+2021-10-18 21:15:39,073 [main] INFO logger_File - Scenario Retail website Login test Started
+2021-10-18 21:15:42,476 [main] INFO logger_File - Actual Title is matching with expected title
+2021-10-18 21:15:42,819 [main] INFO logger_File - user clicked on MyAccount
+2021-10-18 21:15:43,112 [main] INFO logger_File - user clicked on Login Option
+2021-10-18 21:15:43,408 [main] INFO logger_File - user Enter eagles@tekschool.usand password eagles
+2021-10-18 21:15:43,939 [main] INFO logger_File - user clicked on Login Button
+2021-10-18 21:15:43,985 [main] INFO logger_File - user is logged in to MyAccount Dashboard
+2021-10-18 21:15:44,753 [main] INFO logger_File - Scenario Retail website Login test PASSED
+2021-10-18 21:18:53,899 [main] INFO logger_File - Scenario Retail website Login test Started
+2021-10-18 21:18:57,554 [main] INFO logger_File - Actual Title is matching with expected title
+2021-10-18 21:18:57,886 [main] INFO logger_File - user clicked on MyAccount
+2021-10-18 21:18:58,204 [main] INFO logger_File - user clicked on Login Option
+2021-10-18 21:18:58,526 [main] INFO logger_File - user Enter eagles@tekschool.usand password eagles
+2021-10-18 21:18:59,105 [main] INFO logger_File - user clicked on Login Button
+2021-10-18 21:18:59,145 [main] INFO logger_File - user is logged in to MyAccount Dashboard
+2021-10-18 21:18:59,935 [main] INFO logger_File - Scenario Retail website Login test PASSED
+2021-10-18 21:20:19,399 [main] INFO logger_File - Scenario Retail website Login test Started
+2021-10-18 21:20:24,351 [main] INFO logger_File - Actual Title is matching with expected title
+2021-10-18 21:20:24,749 [main] INFO logger_File - user clicked on MyAccount
+2021-10-18 21:20:26,633 [main] INFO logger_File - user clicked on Login Option
+2021-10-18 21:20:26,927 [main] INFO logger_File - user Enter eagles@tekschool.usand password eagles
+2021-10-18 21:20:28,469 [main] INFO logger_File - user clicked on Login Button
+2021-10-18 21:20:28,511 [main] INFO logger_File - user is logged in to MyAccount Dashboard
+2021-10-18 21:20:29,293 [main] INFO logger_File - Scenario Retail website Login test PASSED
+2021-10-18 21:21:00,053 [main] INFO logger_File - Scenario Retail website Login test Started
+2021-10-18 21:21:05,030 [main] INFO logger_File - Actual Title is matching with expected title
+2021-10-18 21:21:05,336 [main] INFO logger_File - user clicked on MyAccount
+2021-10-18 21:21:05,603 [main] INFO logger_File - user clicked on Login Option
+2021-10-18 21:21:05,893 [main] INFO logger_File - user Enter eagles@tekschool.usand password eagles
+2021-10-18 21:21:06,413 [main] INFO logger_File - user clicked on Login Button
+2021-10-18 21:21:06,457 [main] INFO logger_File - user is logged in to MyAccount Dashboard
+2021-10-18 21:21:07,213 [main] INFO logger_File - Scenario Retail website Login test PASSED
+2021-10-18 21:24:12,901 [main] INFO logger_File - Scenario Retail website Login test Started
+2021-10-18 21:24:19,813 [main] INFO logger_File - Actual Title is matching with expected title
+2021-10-18 21:24:20,125 [main] INFO logger_File - user clicked on MyAccount
+2021-10-18 21:24:21,469 [main] INFO logger_File - user clicked on Login Option
+2021-10-18 21:24:21,775 [main] INFO logger_File - user Enter eagles@tekschool.usand password eagles
+2021-10-18 21:24:22,818 [main] INFO logger_File - user clicked on Login Button
+2021-10-18 21:24:22,857 [main] INFO logger_File - user is logged in to MyAccount Dashboard
+2021-10-18 21:24:23,637 [main] INFO logger_File - Scenario Retail website Login test PASSED
+2021-10-18 21:27:34,597 [main] INFO logger_File - Scenario Retail website Login test Started
+2021-10-18 21:27:38,002 [main] INFO logger_File - Actual Title is matching with expected title
+2021-10-18 21:27:38,338 [main] INFO logger_File - user clicked on MyAccount
+2021-10-18 21:27:38,540 [main] INFO logger_File - user clicked on Login Option
+2021-10-18 21:27:38,829 [main] INFO logger_File - user Enter eagles@tekschool.usand password eagles
+2021-10-18 21:27:39,342 [main] INFO logger_File - user clicked on Login Button
+2021-10-18 21:27:39,384 [main] INFO logger_File - user is logged in to MyAccount Dashboard
+2021-10-18 21:27:40,181 [main] INFO logger_File - Scenario Retail website Login test PASSED
+2021-10-18 22:24:57,037 [main] INFO logger_File - Scenario Retail website Login test Started
+2021-10-18 22:25:00,763 [main] INFO logger_File - Actual Title is matching with expected title
+2021-10-18 22:25:01,079 [main] INFO logger_File - user clicked on MyAccount
+2021-10-18 22:25:01,343 [main] INFO logger_File - user clicked on Login Option
+2021-10-18 22:25:01,643 [main] INFO logger_File - user Enter eagles@tekschool.usand password eagles
+2021-10-18 22:25:02,216 [main] INFO logger_File - user clicked on Login Button
+2021-10-18 22:25:02,275 [main] INFO logger_File - user is logged in to MyAccount Dashboard
+2021-10-18 22:25:03,057 [main] INFO logger_File - Scenario Retail website Login test PASSED
+2021-10-18 22:26:03,776 [main] INFO logger_File - Scenario Retail website Login test Started
+2021-10-18 22:26:07,096 [main] INFO logger_File - Actual Title is matching with expected title
+2021-10-18 22:26:07,434 [main] INFO logger_File - user clicked on MyAccount
+2021-10-18 22:26:07,696 [main] INFO logger_File - user clicked on Login Option
+2021-10-18 22:26:08,004 [main] INFO logger_File - user Enter eagles@tekschool.usand password eagles
+2021-10-18 22:26:08,563 [main] INFO logger_File - user clicked on Login Button
+2021-10-18 22:26:08,620 [main] INFO logger_File - user is logged in to MyAccount Dashboard
+2021-10-18 22:26:09,399 [main] INFO logger_File - Scenario Retail website Login test PASSED
+2021-10-18 22:32:34,613 [main] INFO logger_File - Scenario Retail website Login test Started
+2021-10-18 22:32:38,624 [main] INFO logger_File - Actual Title is matching with expected title
+2021-10-18 22:32:38,924 [main] INFO logger_File - user clicked on MyAccount
+2021-10-18 22:32:39,158 [main] INFO logger_File - user clicked on Login Option
+2021-10-18 22:32:39,482 [main] INFO logger_File - user Enter eagles@tekschool.usand password eagles
+2021-10-18 22:32:40,044 [main] INFO logger_File - user clicked on Login Button
+2021-10-18 22:32:40,096 [main] INFO logger_File - user is logged in to MyAccount Dashboard
+2021-10-18 22:32:40,874 [main] INFO logger_File - Scenario Retail website Login test PASSED
+2021-10-18 22:33:46,591 [main] INFO logger_File - Scenario Retail website Login test Started
+2021-10-18 22:33:50,893 [main] INFO logger_File - Actual Title is matching with expected title
+2021-10-18 22:33:51,193 [main] INFO logger_File - user clicked on MyAccount
+2021-10-18 22:33:52,541 [main] INFO logger_File - user clicked on Login Option
+2021-10-18 22:33:52,885 [main] INFO logger_File - user Enter eagles@tekschool.usand password eagles
+2021-10-18 22:33:54,267 [main] INFO logger_File - user clicked on Login Button
+2021-10-18 22:33:54,322 [main] INFO logger_File - user is logged in to MyAccount Dashboard
+2021-10-18 22:33:55,104 [main] INFO logger_File - Scenario Retail website Login test PASSED
+2021-10-18 22:35:15,562 [main] INFO logger_File - Scenario Retail website Login test Started
+2021-10-18 22:35:19,256 [main] INFO logger_File - Actual Title is matching with expected title
+2021-10-18 22:35:19,551 [main] INFO logger_File - user clicked on MyAccount
+2021-10-18 22:35:20,044 [main] INFO logger_File - user clicked on Login Option
+2021-10-18 22:35:20,366 [main] INFO logger_File - user Enter eagles@tekschool.usand password eagles
+2021-10-18 22:35:21,335 [main] INFO logger_File - user clicked on Login Button
+2021-10-18 22:35:21,392 [main] INFO logger_File - user is logged in to MyAccount Dashboard
+2021-10-18 22:35:22,171 [main] INFO logger_File - Scenario Retail website Login test PASSED
+2021-10-18 22:37:06,862 [main] INFO logger_File - Scenario Retail website Login test Started
+2021-10-18 22:37:10,828 [main] INFO logger_File - Actual Title is matching with expected title
+2021-10-18 22:37:11,127 [main] INFO logger_File - user clicked on MyAccount
+2021-10-18 22:37:13,129 [main] INFO logger_File - user clicked on Login Option
+2021-10-18 22:37:13,467 [main] INFO logger_File - user Enter eagles@tekschool.usand password eagles
+2021-10-18 22:37:15,592 [main] INFO logger_File - user clicked on Login Button
+2021-10-18 22:37:15,642 [main] INFO logger_File - user is logged in to MyAccount Dashboard
+2021-10-18 22:37:16,437 [main] INFO logger_File - Scenario Retail website Login test PASSED
+2021-10-18 22:37:54,335 [main] INFO logger_File - Scenario Retail website Login test Started
+2021-10-18 22:37:59,665 [main] INFO logger_File - Actual Title is matching with expected title
+2021-10-18 22:38:00,036 [main] INFO logger_File - user clicked on MyAccount
+2021-10-18 22:38:01,946 [main] INFO logger_File - user clicked on Login Option
+2021-10-18 22:38:02,287 [main] INFO logger_File - user Enter eagles@tekschool.usand password eagles
+2021-10-18 22:38:07,216 [main] INFO logger_File - user clicked on Login Button
+2021-10-18 22:38:07,272 [main] INFO logger_File - user is logged in to MyAccount Dashboard
+2021-10-18 22:38:08,367 [main] INFO logger_File - Scenario Retail website Login test PASSED
+2021-10-18 22:39:09,282 [main] INFO logger_File - Scenario Retail website Login test Started
+2021-10-18 22:39:12,634 [main] INFO logger_File - Actual Title is matching with expected title
+2021-10-18 22:39:13,021 [main] INFO logger_File - user clicked on MyAccount
+2021-10-18 22:39:13,273 [main] INFO logger_File - user clicked on Login Option
+2021-10-18 22:39:13,578 [main] INFO logger_File - user Enter eagles@tekschool.usand password eagles
+2021-10-18 22:39:14,114 [main] INFO logger_File - user clicked on Login Button
+2021-10-18 22:39:14,164 [main] INFO logger_File - user is logged in to MyAccount Dashboard
+2021-10-18 22:39:15,269 [main] INFO logger_File - Scenario Retail website Login test PASSED
+2021-10-18 22:51:12,402 [main] INFO logger_File - Scenario Retail website Login test Started
+2021-10-18 22:51:15,828 [main] INFO logger_File - Actual Title is matching with expected title
+2021-10-18 22:51:16,219 [main] INFO logger_File - user clicked on MyAccount
+2021-10-18 22:51:16,472 [main] INFO logger_File - user clicked on Login Option
+2021-10-18 22:51:16,838 [main] INFO logger_File - user Enter eagles@tekschool.usand password eagles
+2021-10-18 22:51:17,382 [main] INFO logger_File - user clicked on Login Button
+2021-10-18 22:51:17,456 [main] INFO logger_File - user is logged in to MyAccount Dashboard
+2021-10-18 22:51:18,559 [main] INFO logger_File - Scenario Retail website Login test PASSED
+2021-10-18 22:55:17,135 [main] INFO logger_File - Scenario Retail website Login test Started
+2021-10-18 22:55:20,922 [main] INFO logger_File - Actual Title is matching with expected title
+2021-10-18 22:55:21,215 [main] INFO logger_File - user clicked on MyAccount
+2021-10-18 22:55:21,545 [main] INFO logger_File - user clicked on Login Option
+2021-10-18 22:55:21,863 [main] INFO logger_File - user Enter eagles@tekschool.usand password eagles
+2021-10-18 22:55:22,519 [main] INFO logger_File - user clicked on Login Button
+2021-10-18 22:55:22,572 [main] INFO logger_File - user is logged in to MyAccount Dashboard
+2021-10-18 22:55:23,692 [main] INFO logger_File - Scenario Retail website Login test PASSED
+2021-10-18 22:57:26,592 [main] INFO logger_File - Scenario Retail website Login test Started
+2021-10-18 22:57:29,993 [main] INFO logger_File - Actual Title is matching with expected title
+2021-10-18 22:57:30,322 [main] INFO logger_File - user clicked on MyAccount
+2021-10-18 22:57:30,623 [main] INFO logger_File - user clicked on Login Option
+2021-10-18 22:57:30,953 [main] INFO logger_File - user Enter eagles@tekschool.usand password eagles
+2021-10-18 22:57:31,475 [main] INFO logger_File - user clicked on Login Button
+2021-10-18 22:57:31,522 [main] INFO logger_File - user is logged in to MyAccount Dashboard
+2021-10-18 22:57:32,599 [main] INFO logger_File - Scenario Retail website Login test PASSED
+2021-10-18 23:06:36,377 [main] INFO logger_File - Scenario Retail website Login test Started
+2021-10-18 23:06:40,460 [main] INFO logger_File - Actual Title is matching with expected title
+2021-10-18 23:06:40,843 [main] INFO logger_File - user clicked on MyAccount
+2021-10-18 23:06:41,200 [main] INFO logger_File - user clicked on Login Option
+2021-10-18 23:06:41,553 [main] INFO logger_File - user Enter eagles@tekschool.usand password eagles
+2021-10-18 23:06:42,210 [main] INFO logger_File - user clicked on Login Button
+2021-10-18 23:06:42,261 [main] INFO logger_File - user is logged in to MyAccount Dashboard
+2021-10-18 23:06:43,343 [main] INFO logger_File - Scenario Retail website Login test PASSED
+2021-10-19 17:37:43,447 [main] INFO logger_File - Scenario Retail website Login test Started
+2021-10-19 17:37:47,720 [main] INFO logger_File - Actual Title is matching with expected title
+2021-10-19 17:37:48,010 [main] INFO logger_File - user clicked on MyAccount
+2021-10-19 17:37:48,290 [main] INFO logger_File - user clicked on Login Option
+2021-10-19 17:37:48,566 [main] INFO logger_File - user Enter eagles@tekschool.usand password eagles
+2021-10-19 17:37:49,720 [main] INFO logger_File - user clicked on Login Button
+2021-10-19 17:37:49,759 [main] INFO logger_File - user is logged in to MyAccount Dashboard
+2021-10-19 17:37:50,517 [main] INFO logger_File - Scenario Retail website Login test PASSED
+2021-10-19 17:53:39,388 [main] INFO logger_File - Scenario Retail website Login test Started
+2021-10-19 17:53:43,932 [main] INFO logger_File - Actual Title is matching with expected title
+2021-10-19 17:53:44,229 [main] INFO logger_File - user clicked on MyAccount
+2021-10-19 17:53:44,476 [main] INFO logger_File - user clicked on Login Option
+2021-10-19 17:53:44,781 [main] INFO logger_File - user Enter eagles@tekschool.usand password eagles
+2021-10-19 17:53:45,332 [main] INFO logger_File - user clicked on Login Button
+2021-10-19 17:53:45,370 [main] INFO logger_File - user is logged in to MyAccount Dashboard
+2021-10-19 17:53:46,128 [main] INFO logger_File - Scenario Retail website Login test PASSED
+2021-10-19 18:01:17,305 [main] INFO logger_File - Scenario Retail website Login test Started
+2021-10-19 18:01:21,785 [main] INFO logger_File - Actual Title is matching with expected title
+2021-10-19 18:01:22,084 [main] INFO logger_File - user clicked on MyAccount
+2021-10-19 18:01:22,326 [main] INFO logger_File - user clicked on Login Option
+2021-10-19 18:01:22,640 [main] INFO logger_File - user Enter eagles@tekschool.usand password eagles
+2021-10-19 18:01:23,222 [main] INFO logger_File - user clicked on Login Button
+2021-10-19 18:01:23,260 [main] INFO logger_File - user is logged in to MyAccount Dashboard
+2021-10-19 18:01:24,038 [main] INFO logger_File - Scenario Retail website Login test PASSED
+2021-10-19 18:03:19,311 [main] INFO logger_File - Scenario Retail website Login test Started
+2021-10-19 18:03:23,329 [main] INFO logger_File - Actual Title is matching with expected title
+2021-10-19 18:03:23,679 [main] INFO logger_File - user clicked on MyAccount
+2021-10-19 18:03:23,969 [main] INFO logger_File - user clicked on Login Option
+2021-10-19 18:03:24,267 [main] INFO logger_File - user Enter eagles@tekschool.usand password eagles
+2021-10-19 18:03:24,986 [main] INFO logger_File - user clicked on Login Button
+2021-10-19 18:03:25,024 [main] INFO logger_File - user is logged in to MyAccount Dashboard
+2021-10-19 18:03:25,808 [main] INFO logger_File - Scenario Retail website Login test PASSED
+2021-10-19 18:16:03,978 [main] INFO logger_File - Scenario Retail website Login test Started
+2021-10-19 18:16:07,874 [main] INFO logger_File - Actual Title is matching with expected title
+2021-10-19 18:16:08,194 [main] INFO logger_File - user clicked on MyAccount
+2021-10-19 18:16:08,492 [main] INFO logger_File - user clicked on Login Option
+2021-10-19 18:16:08,795 [main] INFO logger_File - user Enter eagles@tekschool.usand password eagles
+2021-10-19 18:16:09,383 [main] INFO logger_File - user clicked on Login Button
+2021-10-19 18:16:09,443 [main] INFO logger_File - user is logged in to MyAccount Dashboard
+2021-10-19 18:16:10,209 [main] INFO logger_File - Scenario Retail website Login test PASSED
+2021-10-19 18:21:51,472 [main] INFO logger_File - Scenario Retail website Login test Started
+2021-10-19 18:21:55,298 [main] INFO logger_File - Actual Title is matching with expected title
+2021-10-19 18:21:55,595 [main] INFO logger_File - user clicked on MyAccount
+2021-10-19 18:21:55,824 [main] INFO logger_File - user clicked on Login Option
+2021-10-19 18:21:56,129 [main] INFO logger_File - user Enter eagles@tekschool.usand password eagles
+2021-10-19 18:21:56,776 [main] INFO logger_File - user clicked on Login Button
+2021-10-19 18:21:56,833 [main] INFO logger_File - user is logged in to MyAccount Dashboard
+2021-10-19 18:21:57,628 [main] INFO logger_File - Scenario Retail website Login test PASSED
+2021-10-19 18:29:19,414 [main] INFO logger_File - Scenario Retail website Login test Started
+2021-10-19 18:29:23,169 [main] INFO logger_File - Actual Title is matching with expected title
+2021-10-19 18:29:23,508 [main] INFO logger_File - user clicked on MyAccount
+2021-10-19 18:29:23,756 [main] INFO logger_File - user clicked on Login Option
+2021-10-19 18:29:24,092 [main] INFO logger_File - user Enter eagles@tekschool.usand password eagles
+2021-10-19 18:29:24,608 [main] INFO logger_File - user clicked on Login Button
+2021-10-19 18:29:24,661 [main] INFO logger_File - user is logged in to MyAccount Dashboard
+2021-10-19 18:29:25,461 [main] INFO logger_File - Scenario Retail website Login test PASSED
+2021-10-19 18:30:20,391 [main] INFO logger_File - Scenario Retail website Login test Started
+2021-10-19 18:30:25,342 [main] INFO logger_File - Actual Title is matching with expected title
+2021-10-19 18:30:25,626 [main] INFO logger_File - user clicked on MyAccount
+2021-10-19 18:30:26,650 [main] INFO logger_File - user clicked on Login Option
+2021-10-19 18:30:27,013 [main] INFO logger_File - user Enter eagles@tekschool.usand password eagles
+2021-10-19 18:30:28,704 [main] INFO logger_File - user clicked on Login Button
+2021-10-19 18:30:28,777 [main] INFO logger_File - user is logged in to MyAccount Dashboard
+2021-10-19 18:30:29,561 [main] INFO logger_File - Scenario Retail website Login test PASSED
+2021-10-19 18:31:53,128 [main] INFO logger_File - Scenario Retail website Login test Started
+2021-10-19 18:31:56,664 [main] INFO logger_File - Actual Title is matching with expected title
+2021-10-19 18:31:56,972 [main] INFO logger_File - user clicked on MyAccount
+2021-10-19 18:31:57,229 [main] INFO logger_File - user clicked on Login Option
+2021-10-19 18:31:57,521 [main] INFO logger_File - user Enter eagles@tekschool.usand password eagles
+2021-10-19 18:31:58,238 [main] INFO logger_File - user clicked on Login Button
+2021-10-19 18:31:58,293 [main] INFO logger_File - user is logged in to MyAccount Dashboard
+2021-10-19 18:31:59,088 [main] INFO logger_File - Scenario Retail website Login test PASSED
+2021-10-19 18:33:09,986 [main] INFO logger_File - Scenario Retail website Login test Started
+2021-10-19 18:33:13,453 [main] INFO logger_File - Actual Title is matching with expected title
+2021-10-19 18:33:13,761 [main] INFO logger_File - user clicked on MyAccount
+2021-10-19 18:33:14,003 [main] INFO logger_File - user clicked on Login Option
+2021-10-19 18:33:14,345 [main] INFO logger_File - user Enter eagles@tekschool.usand password eagles
+2021-10-19 18:33:14,968 [main] INFO logger_File - user clicked on Login Button
+2021-10-19 18:33:15,023 [main] INFO logger_File - user is logged in to MyAccount Dashboard
+2021-10-19 18:33:15,819 [main] INFO logger_File - Scenario Retail website Login test PASSED
+2021-10-19 18:33:48,314 [main] INFO logger_File - Scenario Retail website Login test Started
+2021-10-19 18:33:51,861 [main] INFO logger_File - Actual Title is matching with expected title
+2021-10-19 18:33:52,140 [main] INFO logger_File - user clicked on MyAccount
+2021-10-19 18:33:52,379 [main] INFO logger_File - user clicked on Login Option
+2021-10-19 18:33:52,707 [main] INFO logger_File - user Enter eagles@tekschool.usand password eagles
+2021-10-19 18:33:53,291 [main] INFO logger_File - user clicked on Login Button
+2021-10-19 18:33:53,342 [main] INFO logger_File - user is logged in to MyAccount Dashboard
+2021-10-19 18:33:54,123 [main] INFO logger_File - Scenario Retail website Login test PASSED
+2021-10-19 19:26:48,550 [main] INFO logger_File - Scenario Retail website Login test Started
+2021-10-19 19:26:52,383 [main] INFO logger_File - Actual Title is matching with expected title
+2021-10-19 19:26:52,812 [main] INFO logger_File - user clicked on MyAccount
+2021-10-19 19:26:53,087 [main] INFO logger_File - user clicked on Login Option
+2021-10-19 19:26:53,393 [main] INFO logger_File - user Enter eagles@tekschool.usand password eagles
+2021-10-19 19:26:53,954 [main] INFO logger_File - user clicked on Login Button
+2021-10-19 19:26:53,996 [main] INFO logger_File - user is logged in to MyAccount Dashboard
+2021-10-19 19:26:54,753 [main] INFO logger_File - Scenario Retail website Login test PASSED
+2021-10-19 19:26:54,763 [main] INFO logger_File - Scenario Retail website Login test with multiple accounts Started
+2021-10-19 19:26:57,670 [main] INFO logger_File - Actual Title is matching with expected title
+2021-10-19 19:26:57,964 [main] INFO logger_File - user clicked on MyAccount
+2021-10-19 19:26:58,168 [main] INFO logger_File - user clicked on Login Option
+2021-10-19 19:26:58,478 [main] INFO logger_File - user Enter eagles@tekschool.usand password eagles
+2021-10-19 19:26:59,074 [main] INFO logger_File - user clicked on Login Button
+2021-10-19 19:26:59,105 [main] INFO logger_File - user is logged in to MyAccount Dashboard
+2021-10-19 19:26:59,876 [main] INFO logger_File - Scenario Retail website Login test with multiple accounts PASSED
+2021-10-19 19:26:59,881 [main] INFO logger_File - Scenario Retail website Login test with multiple accounts Started
+2021-10-19 19:27:02,450 [main] INFO logger_File - Actual Title is matching with expected title
+2021-10-19 19:27:02,768 [main] INFO logger_File - user clicked on MyAccount
+2021-10-19 19:27:03,009 [main] INFO logger_File - user clicked on Login Option
+2021-10-19 19:27:03,301 [main] INFO logger_File - user Enter hawks@tekschool.usand password hawks
+2021-10-19 19:27:03,993 [main] INFO logger_File - user clicked on Login Button
+2021-10-19 19:27:04,024 [main] INFO logger_File - user is logged in to MyAccount Dashboard
+2021-10-19 19:27:04,776 [main] INFO logger_File - Scenario Retail website Login test with multiple accounts PASSED
+2021-10-19 19:27:04,782 [main] INFO logger_File - Scenario Retail website Login test with multiple accounts Started
+2021-10-19 19:27:09,280 [main] INFO logger_File - Actual Title is matching with expected title
+2021-10-19 19:27:09,544 [main] INFO logger_File - user clicked on MyAccount
+2021-10-19 19:27:09,779 [main] INFO logger_File - user clicked on Login Option
+2021-10-19 19:27:10,077 [main] INFO logger_File - user Enter falcons@tekschool.usand password falcons
+2021-10-19 19:27:10,590 [main] INFO logger_File - user clicked on Login Button
+2021-10-19 19:27:10,621 [main] INFO logger_File - user is logged in to MyAccount Dashboard
+2021-10-19 19:27:11,379 [main] INFO logger_File - Scenario Retail website Login test with multiple accounts PASSED
+2021-10-19 19:31:03,876 [main] INFO logger_File - Scenario Retail website Login test Started
+2021-10-19 19:31:08,117 [main] INFO logger_File - Actual Title is matching with expected title
+2021-10-19 19:31:08,446 [main] INFO logger_File - user clicked on MyAccount
+2021-10-19 19:31:08,703 [main] INFO logger_File - user clicked on Login Option
+2021-10-19 19:31:09,016 [main] INFO logger_File - user Enter eagles@tekschool.usand password eagles
+2021-10-19 19:31:09,683 [main] INFO logger_File - user clicked on Login Button
+2021-10-19 19:31:09,722 [main] INFO logger_File - user is logged in to MyAccount Dashboard
+2021-10-19 19:31:10,494 [main] INFO logger_File - Scenario Retail website Login test PASSED
+2021-10-19 19:31:10,503 [main] INFO logger_File - Scenario Retail website Login test with multiple accounts Started
+2021-10-19 19:31:13,507 [main] INFO logger_File - Actual Title is matching with expected title
+2021-10-19 19:31:13,847 [main] INFO logger_File - user clicked on MyAccount
+2021-10-19 19:31:14,122 [main] INFO logger_File - user clicked on Login Option
+2021-10-19 19:31:14,424 [main] INFO logger_File - user Enter eagles@tekschool.usand password eagles
+2021-10-19 19:31:15,074 [main] INFO logger_File - user clicked on Login Button
+2021-10-19 19:31:15,106 [main] INFO logger_File - user is logged in to MyAccount Dashboard
+2021-10-19 19:31:15,866 [main] INFO logger_File - Scenario Retail website Login test with multiple accounts PASSED
+2021-10-19 19:31:15,871 [main] INFO logger_File - Scenario Retail website Login test with multiple accounts Started
+2021-10-19 19:31:18,743 [main] INFO logger_File - Actual Title is matching with expected title
+2021-10-19 19:31:19,088 [main] INFO logger_File - user clicked on MyAccount
+2021-10-19 19:31:19,776 [main] INFO logger_File - user clicked on Login Option
+2021-10-19 19:31:20,085 [main] INFO logger_File - user Enter hawks@tekschool.usand password hawks
+2021-10-19 19:31:22,125 [main] INFO logger_File - user clicked on Login Button
+2021-10-19 19:31:22,157 [main] INFO logger_File - user is logged in to MyAccount Dashboard
+2021-10-19 19:31:22,933 [main] INFO logger_File - Scenario Retail website Login test with multiple accounts PASSED
+2021-10-19 19:31:22,938 [main] INFO logger_File - Scenario Retail website Login test with multiple accounts Started
+2021-10-19 19:31:25,724 [main] INFO logger_File - Actual Title is matching with expected title
+2021-10-19 19:31:26,037 [main] INFO logger_File - user clicked on MyAccount
+2021-10-19 19:31:26,342 [main] INFO logger_File - user clicked on Login Option
+2021-10-19 19:31:26,633 [main] INFO logger_File - user Enter falcons@tekschool.usand password falcon
+2021-10-19 19:31:27,089 [main] INFO logger_File - user clicked on Login Button
+2021-10-19 19:31:57,767 [main] INFO logger_File - Scenario Retail website Login test with multiple accounts FAILED
+2021-10-19 19:35:19,736 [main] INFO logger_File - Scenario Retail website Login test Started
+2021-10-19 19:35:23,605 [main] INFO logger_File - Actual Title is matching with expected title
+2021-10-19 19:35:23,932 [main] INFO logger_File - user clicked on MyAccount
+2021-10-19 19:35:24,163 [main] INFO logger_File - user clicked on Login Option
+2021-10-19 19:35:24,460 [main] INFO logger_File - user Enter eagles@tekschool.usand password eagles
+2021-10-19 19:35:25,008 [main] INFO logger_File - user clicked on Login Button
+2021-10-19 19:35:25,050 [main] INFO logger_File - user is logged in to MyAccount Dashboard
+2021-10-19 19:35:25,853 [main] INFO logger_File - Scenario Retail website Login test PASSED
+2021-10-19 19:54:50,120 [main] INFO logger_File - Scenario Create new user account in Test Environment Started
+2021-10-19 19:54:53,536 [main] INFO logger_File - Actual Title is matching with expected title
+2021-10-19 19:54:53,881 [main] INFO logger_File - user clicked on MyAccount
+2021-10-19 19:54:54,512 [main] INFO logger_File - Scenario Create new user account in Test Environment UNDEFINED
+2021-10-19 19:59:55,413 [main] INFO logger_File - Scenario Create new user account in Test Environment Started
+2021-10-19 19:59:58,814 [main] INFO logger_File - Actual Title is matching with expected title
+2021-10-19 19:59:59,195 [main] INFO logger_File - user clicked on MyAccount
+2021-10-19 19:59:59,820 [main] INFO logger_File - Scenario Create new user account in Test Environment PASSED
+2021-10-19 21:13:47,240 [main] INFO logger_File - Scenario Create new user account in Test Environment Started
+2021-10-19 21:13:50,530 [main] INFO logger_File - Actual Title is matching with expected title
+2021-10-19 21:13:50,907 [main] INFO logger_File - user clicked on MyAccount
+2021-10-19 21:13:51,526 [main] INFO logger_File - user clicked on Register
+2021-10-19 21:13:52,118 [main] INFO logger_File - user entered personal information [{firstName=alex, lastName=conor, email=alex@gmail.com, telephone=2021011122, password=WrongPass, passwordConfirm=WrongPass, subscribe=yes}]
+2021-10-19 21:13:52,350 [main] INFO logger_File - user clicked on privacy and policy checkbox
+2021-10-19 21:13:52,583 [main] INFO logger_File - user clicked on continue button
+2021-10-19 21:14:44,804 [main] INFO logger_File - Scenario Create new user account in Test Environment Started
+2021-10-19 21:14:48,318 [main] INFO logger_File - Actual Title is matching with expected title
+2021-10-19 21:14:48,644 [main] INFO logger_File - user clicked on MyAccount
+2021-10-19 21:14:49,306 [main] INFO logger_File - user clicked on Register
+2021-10-19 21:14:49,925 [main] INFO logger_File - user entered personal information [{firstName=alex, lastName=conor, email=alex1122@gmail.com, telephone=2021011122, password=WrongPass, passwordConfirm=WrongPass, subscribe=yes}]
+2021-10-19 21:14:50,170 [main] INFO logger_File - user clicked on privacy and policy checkbox
+2021-10-19 21:14:50,778 [main] INFO logger_File - user clicked on continue button
+2021-10-19 21:14:50,822 [main] INFO logger_File - account was created successfully
+2021-10-19 21:14:51,630 [main] INFO logger_File - Scenario Create new user account in Test Environment PASSED
+2021-10-19 21:40:39,907 [main] INFO logger_File - Scenario Create new user account in Test Environment Started
+2021-10-19 21:40:43,613 [main] INFO logger_File - Actual Title is matching with expected title
+2021-10-19 21:40:43,912 [main] INFO logger_File - user clicked on MyAccount
+2021-10-19 21:40:44,723 [main] INFO logger_File - user clicked on Register
+2021-10-19 21:40:45,337 [main] INFO logger_File - user entered personal information [{firstName=alex, lastName=conor, email=alex112233@gmail.com, telephone=2021011122, password=WrongPass, passwordConfirm=WrongPass, subscribe=yes}]
+2021-10-19 21:40:45,572 [main] INFO logger_File - user clicked on privacy and policy checkbox
+2021-10-19 21:40:46,007 [main] INFO logger_File - user clicked on continue button
+2021-10-19 21:40:46,037 [main] INFO logger_File - account was created successfully
+2021-10-19 21:40:46,822 [main] INFO logger_File - Scenario Create new user account in Test Environment PASSED
+2021-11-14 20:18:57,504 [main] INFO logger_File - Scenario User verify currency values change Started
+2021-11-14 20:24:47,909 [main] INFO logger_File - Scenario User verify currency values change Started
+2021-11-14 20:25:16,274 [main] INFO logger_File - Scenario User verify currency values change UNDEFINED
+2021-11-14 20:25:16,357 [main] INFO logger_File - Scenario User empty Shopping cart message displays Started
+2021-11-14 21:27:55,732 [main] INFO logger_File - Scenario User empty Shopping cart message displays Started
+2021-11-14 21:28:16,747 [main] INFO logger_File - Actual Title is matching with expected title
+2021-11-14 21:28:18,918 [main] INFO logger_File - user clicked on shopping cart
+2021-11-14 21:28:19,124 [main] INFO logger_File - Your shopping cart is empty! message should display
+2021-11-14 21:28:24,533 [main] INFO logger_File - Scenario User empty Shopping cart message displays PASSED
+2021-11-14 21:31:28,981 [main] INFO logger_File - Scenario User verify currency values change Started
+2021-11-14 21:31:47,576 [main] INFO logger_File - Actual Title is matching with expected title
+2021-11-14 21:31:48,292 [main] INFO logger_File - user clicked on Currency
+2021-11-14 21:31:49,598 [main] INFO logger_File - user clicked on Euro Currency
+2021-11-14 21:39:22,918 [main] INFO logger_File - Scenario User verify currency values change Started
+2021-11-14 21:39:38,339 [main] INFO logger_File - Actual Title is matching with expected title
+2021-11-14 21:39:39,840 [main] INFO logger_File - user clicked on Currency
+2021-11-14 21:39:41,096 [main] INFO logger_File - user clicked on Euro Currency
+2021-11-14 21:40:16,086 [main] INFO logger_File - Scenario User verify currency values change FAILED
+2021-11-14 21:41:52,709 [main] INFO logger_File - Scenario User verify currency values change Started
+2021-11-14 21:42:08,464 [main] INFO logger_File - Actual Title is matching with expected title
+2021-11-14 21:42:09,067 [main] INFO logger_File - user clicked on Currency
+2021-11-14 21:42:10,169 [main] INFO logger_File - user clicked on Euro Currency
+2021-11-14 21:42:11,171 [main] INFO logger_File - Scenario User verify currency values change FAILED
+2021-11-14 21:43:06,999 [main] INFO logger_File - Scenario User verify currency values change Started
+2021-11-14 21:43:18,725 [main] INFO logger_File - Actual Title is matching with expected title
+2021-11-14 21:43:20,033 [main] INFO logger_File - user clicked on Currency
+2021-11-14 21:43:21,297 [main] INFO logger_File - user clicked on Euro Currency
+2021-11-14 21:43:21,569 [main] INFO logger_File - currency value changed to Euro
+2021-11-14 21:43:26,605 [main] INFO logger_File - Scenario User verify currency values change PASSED
+2021-11-14 22:05:01,919 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started
+2021-11-14 22:05:14,644 [main] INFO logger_File - Actual Title is matching with expected title
+2021-11-14 22:05:16,240 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart UNDEFINED
+2021-11-14 22:05:16,281 [main] INFO logger_File - Scenario Product Comparison Started
+2021-11-14 22:05:24,739 [main] INFO logger_File - Actual Title is matching with expected title
+2021-11-14 22:05:25,988 [main] INFO logger_File - Scenario Product Comparison UNDEFINED
+2021-11-14 22:05:26,072 [main] INFO logger_File - Scenario Adding an item to Wish list Started
+2021-11-14 22:05:33,338 [main] INFO logger_File - Actual Title is matching with expected title
+2021-11-14 22:05:34,691 [main] INFO logger_File - Scenario Adding an item to Wish list UNDEFINED
+2021-11-14 22:05:34,715 [main] INFO logger_File - Scenario Validate the price of MacBook Pro is 2000 Started
+2021-11-14 22:05:40,469 [main] INFO logger_File - Actual Title is matching with expected title
+2021-11-14 22:05:41,949 [main] INFO logger_File - Scenario Validate the price of MacBook Pro is 2000 UNDEFINED
+2021-11-15 14:41:06,181 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started
+2021-11-15 14:41:22,809 [main] INFO logger_File - Actual Title is matching with expected title
+2021-11-15 14:41:24,100 [main] INFO logger_File - user clicked on Laptop & Notebook tab
+2021-11-15 14:41:27,831 [main] INFO logger_File - user clicked on Show all Laptop & Notebook option
+2021-11-15 14:41:28,825 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart UNDEFINED
+2021-11-15 14:44:31,903 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started
+2021-11-15 14:44:44,322 [main] INFO logger_File - Actual Title is matching with expected title
+2021-11-15 14:44:45,527 [main] INFO logger_File - user clicked on Laptop & Notebook tab
+2021-11-15 14:44:51,943 [main] INFO logger_File - user clicked on Show all Laptop & Notebook option
+2021-11-15 14:44:52,967 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart UNDEFINED
+2021-11-15 14:51:46,919 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started
+2021-11-15 14:51:58,862 [main] INFO logger_File - Actual Title is matching with expected title
+2021-11-15 14:52:00,019 [main] INFO logger_File - user clicked on Laptop & Notebook tab
+2021-11-15 14:52:03,642 [main] INFO logger_File - user clicked on Show all Laptop & Notebook option
+2021-11-15 14:52:08,385 [main] INFO logger_File - user clicked on Macbook option
+2021-11-15 14:52:08,569 [main] INFO logger_File - user clicked on add to cart option
+2021-11-15 14:52:09,597 [main] INFO logger_File - User sees a message ‘Success: You have added MacBook to your shopping cart!’
+2021-11-15 14:52:14,448 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart UNDEFINED
+2021-11-15 14:55:22,502 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started
+2021-11-15 14:55:32,494 [main] INFO logger_File - Actual Title is matching with expected title
+2021-11-15 14:55:33,880 [main] INFO logger_File - user clicked on Laptop & Notebook tab
+2021-11-15 14:55:36,202 [main] INFO logger_File - user clicked on Show all Laptop & Notebook option
+2021-11-15 14:55:41,456 [main] INFO logger_File - user clicked on Macbook option
+2021-11-15 14:55:42,172 [main] INFO logger_File - user clicked on add to cart option
+2021-11-15 14:55:42,564 [main] INFO logger_File - User sees a message ‘Success: You have added MacBook to your shopping cart!’
+2021-11-15 14:55:47,282 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart UNDEFINED
+2021-11-15 14:58:15,848 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started
+2021-11-15 14:58:28,486 [main] INFO logger_File - Actual Title is matching with expected title
+2021-11-15 14:58:29,511 [main] INFO logger_File - user clicked on Laptop & Notebook tab
+2021-11-15 14:58:34,818 [main] INFO logger_File - user clicked on Show all Laptop & Notebook option
+2021-11-15 14:58:39,996 [main] INFO logger_File - user clicked on Macbook option
+2021-11-15 14:58:40,131 [main] INFO logger_File - user clicked on add to cart option
+2021-11-15 14:58:41,509 [main] INFO logger_File - User sees a message ‘Success: You have added MacBook to your shopping cart!’
+2021-11-15 14:58:46,370 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart UNDEFINED
+2021-11-15 15:00:02,176 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started
+2021-11-15 15:00:18,421 [main] INFO logger_File - Actual Title is matching with expected title
+2021-11-15 15:00:19,320 [main] INFO logger_File - user clicked on Laptop & Notebook tab
+2021-11-15 15:00:22,869 [main] INFO logger_File - user clicked on Show all Laptop & Notebook option
+2021-11-15 15:00:28,283 [main] INFO logger_File - user clicked on Macbook option
+2021-11-15 15:00:28,864 [main] INFO logger_File - user clicked on add to cart option
+2021-11-15 15:00:29,652 [main] INFO logger_File - User sees a message ‘Success: You have added MacBook to your shopping cart!’
+2021-11-15 15:00:34,821 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart UNDEFINED
+2021-11-15 15:02:00,810 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started
+2021-11-15 15:02:16,176 [main] INFO logger_File - Actual Title is matching with expected title
+2021-11-15 15:02:17,269 [main] INFO logger_File - user clicked on Laptop & Notebook tab
+2021-11-15 15:02:21,371 [main] INFO logger_File - user clicked on Show all Laptop & Notebook option
+2021-11-15 15:02:27,129 [main] INFO logger_File - user clicked on Macbook option
+2021-11-15 15:02:27,905 [main] INFO logger_File - user clicked on add to cart option
+2021-11-15 15:02:29,206 [main] INFO logger_File - User sees a message ‘Success: You have added MacBook to your shopping cart!’
+2021-11-15 15:02:34,098 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart UNDEFINED
+2021-11-15 15:04:40,215 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started
+2021-11-15 15:04:57,470 [main] INFO logger_File - Actual Title is matching with expected title
+2021-11-15 15:04:58,860 [main] INFO logger_File - user clicked on Laptop & Notebook tab
+2021-11-15 15:05:08,874 [main] INFO logger_File - user clicked on Show all Laptop & Notebook option
+2021-11-15 15:05:16,757 [main] INFO logger_File - user clicked on Macbook option
+2021-11-15 15:05:17,627 [main] INFO logger_File - user clicked on add to cart option
+2021-11-15 15:05:21,480 [main] INFO logger_File - User sees a message ‘Success: You have added MacBook to your shopping cart!’
+2021-11-15 15:05:26,478 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart UNDEFINED
+2021-11-15 15:10:32,195 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started
+2021-11-15 15:10:44,674 [main] INFO logger_File - Actual Title is matching with expected title
+2021-11-15 15:10:45,910 [main] INFO logger_File - user clicked on Laptop & Notebook tab
+2021-11-15 15:10:50,397 [main] INFO logger_File - user clicked on Show all Laptop & Notebook option
+2021-11-15 15:10:55,879 [main] INFO logger_File - user clicked on Macbook option
+2021-11-15 15:10:56,856 [main] INFO logger_File - user clicked on add to cart option
+2021-11-15 15:10:58,020 [main] INFO logger_File - User sees a message ‘Success: You have added MacBook to your shopping cart!’
+2021-11-15 15:10:59,273 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart UNDEFINED
+2021-11-15 15:14:45,132 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started
+2021-11-15 15:14:56,438 [main] INFO logger_File - Actual Title is matching with expected title
+2021-11-15 15:14:57,612 [main] INFO logger_File - user clicked on Laptop & Notebook tab
+2021-11-15 15:15:00,399 [main] INFO logger_File - user clicked on Show all Laptop & Notebook option
+2021-11-15 15:15:06,394 [main] INFO logger_File - user clicked on Macbook option
+2021-11-15 15:15:07,239 [main] INFO logger_File - user clicked on add to cart option
+2021-11-15 15:15:08,795 [main] INFO logger_File - User sees a message ‘Success: You have added MacBook to your shopping cart!’
+2021-11-15 15:15:13,617 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart UNDEFINED
+2021-11-15 15:16:09,078 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started
+2021-11-15 15:16:23,261 [main] INFO logger_File - Actual Title is matching with expected title
+2021-11-15 15:16:24,455 [main] INFO logger_File - user clicked on Laptop & Notebook tab
+2021-11-15 15:16:29,970 [main] INFO logger_File - user clicked on Show all Laptop & Notebook option
+2021-11-15 15:16:38,494 [main] INFO logger_File - user clicked on Macbook option
+2021-11-15 15:16:39,139 [main] INFO logger_File - user clicked on add to cart option
+2021-11-15 15:16:41,714 [main] INFO logger_File - User sees a message ‘Success: You have added MacBook to your shopping cart!’
+2021-11-15 15:16:44,366 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart UNDEFINED
+2021-11-15 15:23:11,258 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started
+2021-11-15 15:23:27,905 [main] INFO logger_File - Actual Title is matching with expected title
+2021-11-15 15:23:29,199 [main] INFO logger_File - user clicked on Laptop & Notebook tab
+2021-11-15 15:23:36,061 [main] INFO logger_File - user clicked on Show all Laptop & Notebook option
+2021-11-15 15:23:45,447 [main] INFO logger_File - user clicked on Macbook option
+2021-11-15 15:23:45,990 [main] INFO logger_File - user clicked on add to cart option
+2021-11-15 15:23:49,980 [main] INFO logger_File - User sees a message ‘Success: You have added MacBook to your shopping cart!’
+2021-11-15 15:23:54,779 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart UNDEFINED
+2021-11-15 15:24:28,271 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started
+2021-11-15 15:24:41,254 [main] INFO logger_File - Actual Title is matching with expected title
+2021-11-15 15:24:42,392 [main] INFO logger_File - user clicked on Laptop & Notebook tab
+2021-11-15 15:24:49,049 [main] INFO logger_File - user clicked on Show all Laptop & Notebook option
+2021-11-15 15:24:55,909 [main] INFO logger_File - user clicked on Macbook option
+2021-11-15 15:24:56,412 [main] INFO logger_File - user clicked on add to cart option
+2021-11-15 15:24:57,665 [main] INFO logger_File - User sees a message ‘Success: You have added MacBook to your shopping cart!’
+2021-11-15 15:25:02,438 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart UNDEFINED
+2021-11-15 15:26:01,194 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started
+2021-11-15 15:26:13,046 [main] INFO logger_File - Actual Title is matching with expected title
+2021-11-15 15:26:14,265 [main] INFO logger_File - user clicked on Laptop & Notebook tab
+2021-11-15 15:26:20,653 [main] INFO logger_File - user clicked on Show all Laptop & Notebook option
+2021-11-15 15:26:28,647 [main] INFO logger_File - user clicked on Macbook option
+2021-11-15 15:26:29,235 [main] INFO logger_File - user clicked on add to cart option
+2021-11-15 15:26:30,665 [main] INFO logger_File - User sees a message ‘Success: You have added MacBook to your shopping cart!’
+2021-11-15 15:26:30,969 [main] INFO logger_File - User sees a message ‘1 item(s)-602.00’ showed to the cart
+2021-11-15 15:26:31,297 [main] INFO logger_File - user clicked on cart button
+2021-11-15 15:26:32,501 [main] INFO logger_File - user clicked on red X button to remove from cart
+2021-11-15 15:26:33,535 [main] INFO logger_File - item is removed and cart should show ‘0 item(s)’
+2021-11-15 15:26:34,953 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart PASSED
+2021-11-15 15:33:54,892 [main] INFO logger_File - Scenario Product Comparison Started
+2021-11-15 15:34:11,908 [main] INFO logger_File - Actual Title is matching with expected title
+2021-11-15 15:34:12,736 [main] INFO logger_File - user clicked on Laptop & Notebook tab
+2021-11-15 15:34:15,884 [main] INFO logger_File - user clicked on Show all Laptop & Notebook option
+2021-11-15 15:34:16,055 [main] INFO logger_File - user clicked on product comparison button
+2021-11-15 15:34:16,204 [main] INFO logger_File - user clicked on product comparison button
+2021-11-15 15:34:18,511 [main] INFO logger_File - User sees a message ‘Success: You have added MacBook Air to your product comparison!’
+2021-11-15 15:34:49,872 [main] INFO logger_File - Scenario Product Comparison FAILED
+2021-11-15 15:41:27,236 [main] INFO logger_File - Scenario Product Comparison Started
+2021-11-15 15:41:44,621 [main] INFO logger_File - Actual Title is matching with expected title
+2021-11-15 15:41:45,384 [main] INFO logger_File - user clicked on Laptop & Notebook tab
+2021-11-15 15:41:51,299 [main] INFO logger_File - user clicked on Show all Laptop & Notebook option
+2021-11-15 15:41:51,755 [main] INFO logger_File - user clicked on product comparison button
+2021-11-15 15:41:51,951 [main] INFO logger_File - user clicked on product comparison button
+2021-11-15 15:41:54,287 [main] INFO logger_File - User sees a message ‘Success: You have added MacBook Air to your product comparison!’
+2021-11-15 15:42:25,458 [main] INFO logger_File - Scenario Product Comparison FAILED
+2021-11-15 15:49:13,838 [main] INFO logger_File - Scenario Product Comparison Started
+2021-11-15 15:49:25,007 [main] INFO logger_File - Actual Title is matching with expected title
+2021-11-15 15:49:26,202 [main] INFO logger_File - user clicked on Laptop & Notebook tab
+2021-11-15 15:49:29,619 [main] INFO logger_File - user clicked on Show all Laptop & Notebook option
+2021-11-15 15:49:29,818 [main] INFO logger_File - user clicked on product comparison button
+2021-11-15 15:49:29,971 [main] INFO logger_File - user clicked on product comparison button
+2021-11-15 15:49:32,832 [main] INFO logger_File - User sees a message ‘Success: You have added MacBook Air to your product comparison!’
+2021-11-15 15:50:05,658 [main] INFO logger_File - Scenario Product Comparison FAILED
+2021-11-15 15:53:12,269 [main] INFO logger_File - Scenario Product Comparison Started
+2021-11-15 15:53:29,598 [main] INFO logger_File - Actual Title is matching with expected title
+2021-11-15 15:53:30,182 [main] INFO logger_File - user clicked on Laptop & Notebook tab
+2021-11-15 15:53:36,160 [main] INFO logger_File - user clicked on Show all Laptop & Notebook option
+2021-11-15 15:53:36,417 [main] INFO logger_File - user clicked on product comparison button
+2021-11-15 15:53:36,545 [main] INFO logger_File - user clicked on product comparison button
+2021-11-15 15:53:39,380 [main] INFO logger_File - User sees a message ‘Success: You have added MacBook Air to your product comparison!’
+2021-11-15 15:54:10,431 [main] INFO logger_File - Scenario Product Comparison FAILED
+2021-11-15 15:57:27,279 [main] INFO logger_File - Scenario Product Comparison Started
+2021-11-15 15:57:37,405 [main] INFO logger_File - Actual Title is matching with expected title
+2021-11-15 15:57:38,523 [main] INFO logger_File - user clicked on Laptop & Notebook tab
+2021-11-15 15:57:41,454 [main] INFO logger_File - user clicked on Show all Laptop & Notebook option
+2021-11-15 15:57:41,746 [main] INFO logger_File - user clicked on product comparison button
+2021-11-15 15:57:41,942 [main] INFO logger_File - user clicked on product comparison button
+2021-11-15 15:58:12,655 [main] INFO logger_File - Scenario Product Comparison FAILED
+2021-11-15 16:00:01,669 [main] INFO logger_File - Scenario Product Comparison Started
+2021-11-15 16:00:15,900 [main] INFO logger_File - Actual Title is matching with expected title
+2021-11-15 16:00:16,538 [main] INFO logger_File - user clicked on Laptop & Notebook tab
+2021-11-15 16:00:22,560 [main] INFO logger_File - user clicked on Show all Laptop & Notebook option
+2021-11-15 16:00:22,738 [main] INFO logger_File - user clicked on product comparison button
+2021-11-15 16:00:22,921 [main] INFO logger_File - user clicked on product comparison button
+2021-11-15 16:00:24,638 [main] INFO logger_File - Scenario Product Comparison FAILED
+2021-11-15 16:05:40,620 [main] INFO logger_File - Scenario Product Comparison Started
+2021-11-15 16:05:54,602 [main] INFO logger_File - Actual Title is matching with expected title
+2021-11-15 16:05:55,968 [main] INFO logger_File - user clicked on Laptop & Notebook tab
+2021-11-15 16:05:59,989 [main] INFO logger_File - user clicked on Show all Laptop & Notebook option
+2021-11-15 16:06:00,257 [main] INFO logger_File - user clicked on product comparison button
+2021-11-15 16:06:00,479 [main] INFO logger_File - user clicked on product comparison button
+2021-11-15 16:06:01,044 [main] INFO logger_File - User sees a message ‘Success: You have added MacBook Air to your product comparison!’
+2021-11-15 16:06:05,059 [main] INFO logger_File - user clicked on product comparison link
+2021-11-15 16:06:05,178 [main] INFO logger_File - User sees product chart
+2021-11-15 16:06:06,000 [main] INFO logger_File - Scenario Product Comparison PASSED
+2021-11-15 16:07:18,979 [main] INFO logger_File - Scenario Adding an item to Wish list Started
+2021-11-15 16:07:35,629 [main] INFO logger_File - Actual Title is matching with expected title
+2021-11-15 16:07:36,819 [main] INFO logger_File - user clicked on Laptop & Notebook tab
+2021-11-15 16:07:42,762 [main] INFO logger_File - user clicked on Show all Laptop & Notebook option
+2021-11-15 16:07:43,008 [main] INFO logger_File - user clicked on heart icon to add 'Sony VaIO' to wish list
+2021-11-15 16:07:43,993 [main] INFO logger_File - User sees message ‘You must login or create an account to save Sony VAIO to your wishlist!’
+2021-11-15 16:07:45,212 [main] INFO logger_File - Scenario Adding an item to Wish list PASSED
+2021-11-15 16:08:35,414 [main] INFO logger_File - Scenario Validate the price of MacBook Pro is 2000 Started
+2021-11-15 16:08:48,705 [main] INFO logger_File - Actual Title is matching with expected title
+2021-11-15 16:08:49,861 [main] INFO logger_File - user clicked on Laptop & Notebook tab
+2021-11-15 16:08:55,014 [main] INFO logger_File - user clicked on Show all Laptop & Notebook option
+2021-11-15 16:09:00,687 [main] INFO logger_File - user clicked on MacBook Pro
+2021-11-15 16:09:01,651 [main] INFO logger_File - Scenario Validate the price of MacBook Pro is 2000 UNDEFINED
+2021-11-15 16:09:48,128 [main] INFO logger_File - Scenario Validate the price of MacBook Pro is 2000 Started
+2021-11-15 16:09:58,881 [main] INFO logger_File - Actual Title is matching with expected title
+2021-11-15 16:09:59,877 [main] INFO logger_File - user clicked on Laptop & Notebook tab
+2021-11-15 16:10:05,064 [main] INFO logger_File - user clicked on Show all Laptop & Notebook option
+2021-11-15 16:10:11,494 [main] INFO logger_File - user clicked on MacBook Pro
+2021-11-15 16:10:11,681 [main] INFO logger_File - User should see ‘${double}’ price tag is present on UI.
+2021-11-15 16:10:17,276 [main] INFO logger_File - Scenario Validate the price of MacBook Pro is 2000 PASSED
+2021-11-15 16:16:30,945 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started
+2021-11-15 16:16:50,523 [main] INFO logger_File - Actual Title is matching with expected title
+2021-11-15 16:16:56,306 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab UNDEFINED
+2021-11-15 16:16:56,431 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart Started
+2021-11-15 16:17:06,919 [main] INFO logger_File - Actual Title is matching with expected title
+2021-11-15 16:17:08,579 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart UNDEFINED
+2021-11-15 16:17:08,640 [main] INFO logger_File - Scenario User add Canon EOS 5D from Desktops tab to the cart Started
+2021-11-15 16:17:16,700 [main] INFO logger_File - Actual Title is matching with expected title
+2021-11-15 16:17:18,455 [main] INFO logger_File - Scenario User add Canon EOS 5D from Desktops tab to the cart UNDEFINED
+2021-11-15 16:17:18,491 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2021-11-15 16:17:27,254 [main] INFO logger_File - Actual Title is matching with expected title
+2021-11-15 16:17:28,872 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab UNDEFINED
+2021-11-15 16:32:45,655 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started
+2021-11-15 16:33:02,914 [main] INFO logger_File - Actual Title is matching with expected title
+2021-11-15 16:33:04,295 [main] INFO logger_File - user clicked on Desktops tab
+2021-11-15 16:33:08,761 [main] INFO logger_File - user clicked on Show All Desktops
+2021-11-15 16:33:08,899 [main] INFO logger_File - User sees all items are present in Desktop page
+2021-11-15 16:33:09,796 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab PASSED
+2021-11-15 17:16:46,996 [main] INFO logger_File - Scenario User add HP LP 3065 from Desktops tab to the cart Started
+2021-11-15 17:16:57,610 [main] INFO logger_File - Actual Title is matching with expected title
+2021-11-15 17:16:58,994 [main] INFO logger_File - user clicked on Desktops tab
+2021-11-15 17:17:02,316 [main] INFO logger_File - user clicked on Show All Desktops
+2021-11-15 17:17:02,527 [main] INFO logger_File - user clicked on ADD TO CART option on ‘HP LP3065’ item
+2021-11-15 17:17:04,250 [main] INFO logger_File - Scenario User add HP LP 3065 from Desktops tab to the cart FAILED
+2021-11-15 17:46:25,951 [main] INFO logger_File - Scenario User add HP LP 3065 from Desktops tab to the cart Started
+2021-11-15 17:46:42,964 [main] INFO logger_File - Actual Title is matching with expected title
+2021-11-15 17:46:43,788 [main] INFO logger_File - user clicked on Desktops tab
+2021-11-15 17:46:51,333 [main] INFO logger_File - user clicked on Show All Desktops
+2021-11-15 17:46:51,733 [main] INFO logger_File - user clicked on ADD TO CART option on ‘HP LP3065’ item
+2021-11-15 17:47:00,820 [main] INFO logger_File - user clicked on ADD TO CART option on ‘HP LP3065’ item
+2021-11-15 17:47:00,970 [main] INFO logger_File - user clicked on add to cart option
+2021-11-15 17:47:01,915 [main] INFO logger_File - Scenario User add HP LP 3065 from Desktops tab to the cart UNDEFINED
+2021-11-15 17:49:22,502 [main] INFO logger_File - Scenario User add HP LP 3065 from Desktops tab to the cart Started
+2021-11-15 17:49:32,670 [main] INFO logger_File - Actual Title is matching with expected title
+2021-11-15 17:49:33,741 [main] INFO logger_File - user clicked on Desktops tab
+2021-11-15 17:49:37,536 [main] INFO logger_File - user clicked on Show All Desktops
+2021-11-15 17:49:37,674 [main] INFO logger_File - user clicked on ADD TO CART option on ‘HP LP3065’ item
+2021-11-15 17:49:42,706 [main] INFO logger_File - user clicked on ADD TO CART option on ‘HP LP3065’ item
+2021-11-15 17:49:42,871 [main] INFO logger_File - user clicked on add to cart option
+2021-11-15 17:49:47,653 [main] INFO logger_File - Scenario User add HP LP 3065 from Desktops tab to the cart UNDEFINED
+2021-11-15 17:56:42,368 [main] INFO logger_File - Scenario User add HP LP 3065 from Desktops tab to the cart Started
+2021-11-15 17:56:54,032 [main] INFO logger_File - Actual Title is matching with expected title
+2021-11-15 17:56:55,286 [main] INFO logger_File - user clicked on Desktops tab
+2021-11-15 17:56:58,180 [main] INFO logger_File - user clicked on Show All Desktops
+2021-11-15 17:56:58,326 [main] INFO logger_File - user clicked on ADD TO CART option on ‘HP LP3065’ item
+2021-11-15 17:57:03,389 [main] INFO logger_File - user clicked on ADD TO CART option on ‘HP LP3065’ item
+2021-11-15 17:57:03,599 [main] INFO logger_File - user clicked on add to cart option
+2021-11-15 17:57:04,891 [main] INFO logger_File - User sees message ‘Success: you have added HP LP to your Shopping cart!’
+2021-11-15 17:57:09,735 [main] INFO logger_File - Scenario User add HP LP 3065 from Desktops tab to the cart PASSED
+2021-11-15 18:11:10,195 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started
+2021-11-15 18:11:22,032 [main] INFO logger_File - Actual Title is matching with expected title
+2021-11-15 18:11:23,201 [main] INFO logger_File - user clicked on Desktops tab
+2021-11-15 18:11:28,724 [main] INFO logger_File - user clicked on Show All Desktops
+2021-11-15 18:11:28,829 [main] INFO logger_File - User sees all items are present in Desktop page
+2021-11-15 18:11:29,582 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab PASSED
+2021-11-15 18:11:29,655 [main] INFO logger_File - Scenario User add HP LP 3065 from Desktops tab to the cart Started
+2021-11-15 18:11:37,336 [main] INFO logger_File - Actual Title is matching with expected title
+2021-11-15 18:11:37,729 [main] INFO logger_File - user clicked on Desktops tab
+2021-11-15 18:11:40,355 [main] INFO logger_File - user clicked on Show All Desktops
+2021-11-15 18:11:40,462 [main] INFO logger_File - user clicked on ADD TO CART option on �HP LP3065� item
+2021-11-15 18:11:45,306 [main] INFO logger_File - user clicked on ADD TO CART option on �HP LP3065� item
+2021-11-15 18:11:45,466 [main] INFO logger_File - user clicked on add to cart option
+2021-11-15 18:11:46,053 [main] INFO logger_File - User sees message �Success: you have added HP LP to your Shopping cart!�
+2021-11-15 18:11:50,939 [main] INFO logger_File - Scenario User add HP LP 3065 from Desktops tab to the cart PASSED
+2021-11-15 18:11:50,985 [main] INFO logger_File - Scenario User add Canon EOS 5D from Desktops tab to the cart Started
+2021-11-15 18:11:57,019 [main] INFO logger_File - Actual Title is matching with expected title
+2021-11-15 18:11:58,154 [main] INFO logger_File - user clicked on Desktops tab
+2021-11-15 18:12:00,214 [main] INFO logger_File - user clicked on Show All Desktops
+2021-11-15 18:12:00,328 [main] INFO logger_File - user clicked on ADD TO CART option on �Canon EOS 5D� item
+2021-11-15 18:12:05,062 [main] INFO logger_File - user selected color from dropdown �Red�
+2021-11-15 18:12:05,534 [main] INFO logger_File - user clicked on ADD TO CART option on �HP LP3065� item
+2021-11-15 18:12:05,661 [main] INFO logger_File - user clicked on add to cart option
+2021-11-15 18:12:10,278 [main] INFO logger_File - Scenario User add Canon EOS 5D from Desktops tab to the cart PASSED
+2021-11-15 18:12:10,345 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2021-11-15 18:12:16,973 [main] INFO logger_File - Actual Title is matching with expected title
+2021-11-15 18:12:18,013 [main] INFO logger_File - user clicked on Desktops tab
+2021-11-15 18:12:20,215 [main] INFO logger_File - user clicked on Show All Desktops
+2021-11-15 18:12:20,929 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab PENDING
+2021-11-15 18:13:50,194 [main] INFO logger_File - Scenario User add Canon EOS 5D from Desktops tab to the cart Started
+2021-11-15 18:13:59,988 [main] INFO logger_File - Actual Title is matching with expected title
+2021-11-15 18:14:00,593 [main] INFO logger_File - user clicked on Desktops tab
+2021-11-15 18:14:02,728 [main] INFO logger_File - user clicked on Show All Desktops
+2021-11-15 18:14:02,919 [main] INFO logger_File - user clicked on ADD TO CART option on ‘Canon EOS 5D’ item
+2021-11-15 18:14:07,681 [main] INFO logger_File - user selected color from dropdown ‘Red’
+2021-11-15 18:14:08,164 [main] INFO logger_File - user clicked on ADD TO CART option on ‘HP LP3065’ item
+2021-11-15 18:14:08,286 [main] INFO logger_File - user clicked on add to cart option
+2021-11-15 18:14:13,057 [main] INFO logger_File - Scenario User add Canon EOS 5D from Desktops tab to the cart PASSED
+2021-11-15 18:45:53,339 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2021-11-15 18:46:06,055 [main] INFO logger_File - Actual Title is matching with expected title
+2021-11-15 18:46:08,793 [main] INFO logger_File - user clicked on Desktops tab
+2021-11-15 18:46:13,365 [main] INFO logger_File - user clicked on Show All Desktops
+2021-11-15 18:46:20,193 [main] INFO logger_File - user clicked on Canon EOS 5D item
+2021-11-15 18:46:20,599 [main] INFO logger_File - User clicked on write a review link
+2021-11-15 18:46:26,170 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab FAILED
+2021-11-15 18:48:17,219 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2021-11-15 18:48:29,774 [main] INFO logger_File - Actual Title is matching with expected title
+2021-11-15 18:48:30,923 [main] INFO logger_File - user clicked on Desktops tab
+2021-11-15 18:48:37,242 [main] INFO logger_File - user clicked on Show All Desktops
+2021-11-15 18:48:44,054 [main] INFO logger_File - user clicked on Canon EOS 5D item
+2021-11-15 18:48:45,004 [main] INFO logger_File - User clicked on write a review link
+2021-11-15 18:48:46,286 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab FAILED
+2021-11-15 18:51:37,776 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2021-11-15 18:51:51,087 [main] INFO logger_File - Actual Title is matching with expected title
+2021-11-15 18:51:51,740 [main] INFO logger_File - user clicked on Desktops tab
+2021-11-15 18:51:56,260 [main] INFO logger_File - user clicked on Show All Desktops
+2021-11-15 18:52:01,279 [main] INFO logger_File - user clicked on Canon EOS 5D item
+2021-11-15 18:52:02,526 [main] INFO logger_File - User clicked on write a review link
+2021-11-15 18:52:07,567 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab FAILED
+2021-11-15 18:58:33,882 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started
+2021-11-15 18:58:45,292 [main] INFO logger_File - Actual Title is matching with expected title
+2021-11-15 18:58:45,862 [main] INFO logger_File - user clicked on Laptop & Notebook tab
+2021-11-15 18:58:49,391 [main] INFO logger_File - user clicked on Show all Laptop & Notebook option
+2021-11-15 18:58:53,384 [main] INFO logger_File - user clicked on Macbook option
+2021-11-15 18:58:53,648 [main] INFO logger_File - user clicked on add to cart option
+2021-11-15 18:58:54,842 [main] INFO logger_File - User sees a message ‘Success: You have added MacBook to your shopping cart!’
+2021-11-15 18:58:59,533 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart UNDEFINED
+2021-11-15 19:02:02,174 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started
+2021-11-15 19:02:17,086 [main] INFO logger_File - Actual Title is matching with expected title
+2021-11-15 19:02:17,627 [main] INFO logger_File - user clicked on Laptop & Notebook tab
+2021-11-15 19:02:22,753 [main] INFO logger_File - user clicked on Show all Laptop & Notebook option
+2021-11-15 19:02:28,860 [main] INFO logger_File - user clicked on Macbook option
+2021-11-15 19:02:29,782 [main] INFO logger_File - user clicked on add to cart option
+2021-11-15 19:02:31,817 [main] INFO logger_File - User sees a message ‘Success: You have added MacBook to your shopping cart!’
+2021-11-15 19:02:33,126 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart UNDEFINED
+2021-11-15 19:03:28,434 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started
+2021-11-15 19:03:39,574 [main] INFO logger_File - Actual Title is matching with expected title
+2021-11-15 19:03:40,784 [main] INFO logger_File - user clicked on Laptop & Notebook tab
+2021-11-15 19:03:43,830 [main] INFO logger_File - user clicked on Show all Laptop & Notebook option
+2021-11-15 19:03:48,978 [main] INFO logger_File - user clicked on Macbook option
+2021-11-15 19:03:49,171 [main] INFO logger_File - user clicked on add to cart option
+2021-11-15 19:03:50,173 [main] INFO logger_File - User sees a message ‘Success: You have added MacBook to your shopping cart!’
+2021-11-15 19:03:55,126 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart UNDEFINED
+2021-11-15 19:07:04,053 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started
+2021-11-15 19:07:16,746 [main] INFO logger_File - Actual Title is matching with expected title
+2021-11-15 19:07:18,082 [main] INFO logger_File - user clicked on Laptop & Notebook tab
+2021-11-15 19:07:22,261 [main] INFO logger_File - user clicked on Show all Laptop & Notebook option
+2021-11-15 19:07:27,297 [main] INFO logger_File - user clicked on Macbook option
+2021-11-15 19:07:27,758 [main] INFO logger_File - user clicked on add to cart option
+2021-11-15 19:07:28,666 [main] INFO logger_File - User sees a message ‘Success: You have added MacBook to your shopping cart!’
+2021-11-15 19:07:33,588 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart UNDEFINED
+2021-11-15 19:08:48,617 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started
+2021-11-15 19:08:58,840 [main] INFO logger_File - Actual Title is matching with expected title
+2021-11-15 19:08:59,971 [main] INFO logger_File - user clicked on Laptop & Notebook tab
+2021-11-15 19:09:04,461 [main] INFO logger_File - user clicked on Show all Laptop & Notebook option
+2021-11-15 19:09:09,143 [main] INFO logger_File - user clicked on Macbook option
+2021-11-15 19:09:09,616 [main] INFO logger_File - user clicked on add to cart option
+2021-11-15 19:09:10,490 [main] INFO logger_File - User sees a message ‘Success: You have added MacBook to your shopping cart!’
+2021-11-15 19:09:11,745 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart UNDEFINED
+2021-11-15 19:10:28,942 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started
+2021-11-15 19:10:38,887 [main] INFO logger_File - Actual Title is matching with expected title
+2021-11-15 19:10:40,122 [main] INFO logger_File - user clicked on Laptop & Notebook tab
+2021-11-15 19:10:41,938 [main] INFO logger_File - user clicked on Show all Laptop & Notebook option
+2021-11-15 19:10:46,353 [main] INFO logger_File - user clicked on Macbook option
+2021-11-15 19:10:46,575 [main] INFO logger_File - user clicked on add to cart option
+2021-11-15 19:10:48,705 [main] INFO logger_File - User sees a message ‘Success: You have added MacBook to your shopping cart!’
+2021-11-15 19:10:53,550 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart UNDEFINED
+2021-11-15 19:12:38,829 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started
+2021-11-15 19:12:57,363 [main] INFO logger_File - Actual Title is matching with expected title
+2021-11-15 19:12:58,150 [main] INFO logger_File - user clicked on Laptop & Notebook tab
+2021-11-15 19:13:03,354 [main] INFO logger_File - user clicked on Show all Laptop & Notebook option
+2021-11-15 19:13:09,630 [main] INFO logger_File - user clicked on Macbook option
+2021-11-15 19:13:09,871 [main] INFO logger_File - user clicked on add to cart option
+2021-11-15 19:13:12,233 [main] INFO logger_File - User sees a message ‘Success: You have added MacBook to your shopping cart!’
+2021-11-15 19:13:17,181 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart UNDEFINED
+2021-11-15 19:14:08,448 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started
+2021-11-15 19:14:18,998 [main] INFO logger_File - Actual Title is matching with expected title
+2021-11-15 19:14:19,570 [main] INFO logger_File - user clicked on Laptop & Notebook tab
+2021-11-15 19:14:22,231 [main] INFO logger_File - user clicked on Show all Laptop & Notebook option
+2021-11-15 19:14:26,047 [main] INFO logger_File - user clicked on Macbook option
+2021-11-15 19:14:26,439 [main] INFO logger_File - user clicked on add to cart option
+2021-11-15 19:14:26,943 [main] INFO logger_File - User sees a message ‘Success: You have added MacBook to your shopping cart!’
+2021-11-15 19:14:31,856 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart UNDEFINED
+2021-11-15 19:16:42,109 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started
+2021-11-15 19:16:52,853 [main] INFO logger_File - Actual Title is matching with expected title
+2021-11-15 19:16:54,400 [main] INFO logger_File - user clicked on Laptop & Notebook tab
+2021-11-15 19:16:56,253 [main] INFO logger_File - user clicked on Show all Laptop & Notebook option
+2021-11-15 19:17:00,195 [main] INFO logger_File - user clicked on Macbook option
+2021-11-15 19:17:00,466 [main] INFO logger_File - user clicked on add to cart option
+2021-11-15 19:17:01,402 [main] INFO logger_File - User sees a message ‘Success: You have added MacBook to your shopping cart!’
+2021-11-15 19:17:06,596 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart UNDEFINED
+2021-11-15 19:18:06,263 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started
+2021-11-15 19:18:17,014 [main] INFO logger_File - Actual Title is matching with expected title
+2021-11-15 19:18:18,471 [main] INFO logger_File - user clicked on Laptop & Notebook tab
+2021-11-15 19:18:20,624 [main] INFO logger_File - user clicked on Show all Laptop & Notebook option
+2021-11-15 19:18:25,270 [main] INFO logger_File - user clicked on Macbook option
+2021-11-15 19:18:26,249 [main] INFO logger_File - user clicked on add to cart option
+2021-11-15 19:18:26,765 [main] INFO logger_File - User sees a message ‘Success: You have added MacBook to your shopping cart!’
+2021-11-15 19:18:32,305 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart UNDEFINED
+2021-11-15 19:21:25,038 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started
+2021-11-15 19:21:37,042 [main] INFO logger_File - Actual Title is matching with expected title
+2021-11-15 19:21:37,769 [main] INFO logger_File - user clicked on Laptop & Notebook tab
+2021-11-15 19:21:39,035 [main] INFO logger_File - user clicked on Show all Laptop & Notebook option
+2021-11-15 19:21:42,385 [main] INFO logger_File - user clicked on Macbook option
+2021-11-15 19:21:43,511 [main] INFO logger_File - user clicked on add to cart option
+2021-11-15 19:21:43,675 [main] INFO logger_File - User sees a message ‘Success: You have added MacBook to your shopping cart!’
+2021-11-15 19:21:48,826 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart UNDEFINED
+2021-11-15 19:27:50,852 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started
+2021-11-15 19:28:02,701 [main] INFO logger_File - Actual Title is matching with expected title
+2021-11-15 19:28:03,464 [main] INFO logger_File - user clicked on Laptop & Notebook tab
+2021-11-15 19:28:06,862 [main] INFO logger_File - user clicked on Show all Laptop & Notebook option
+2021-11-15 19:28:11,791 [main] INFO logger_File - user clicked on Macbook option
+2021-11-15 19:28:12,267 [main] INFO logger_File - user clicked on add to cart option
+2021-11-15 19:28:12,581 [main] INFO logger_File - User sees a message ‘Success: You have added MacBook to your shopping cart!’
+2021-11-15 19:28:14,412 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart UNDEFINED
+2021-11-15 19:29:34,395 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started
+2021-11-15 19:29:44,764 [main] INFO logger_File - Actual Title is matching with expected title
+2021-11-15 19:29:46,140 [main] INFO logger_File - user clicked on Laptop & Notebook tab
+2021-11-15 19:29:47,378 [main] INFO logger_File - user clicked on Show all Laptop & Notebook option
+2021-11-15 19:29:50,849 [main] INFO logger_File - user clicked on Macbook option
+2021-11-15 19:29:51,843 [main] INFO logger_File - user clicked on add to cart option
+2021-11-15 19:29:52,033 [main] INFO logger_File - User sees a message ‘Success: You have added MacBook to your shopping cart!’
+2021-11-15 19:29:53,285 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart UNDEFINED
+2021-11-15 19:36:49,514 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started
+2021-11-15 19:37:02,471 [main] INFO logger_File - Actual Title is matching with expected title
+2021-11-15 19:37:04,147 [main] INFO logger_File - user clicked on Laptop & Notebook tab
+2021-11-15 19:37:07,059 [main] INFO logger_File - user clicked on Show all Laptop & Notebook option
+2021-11-15 19:37:10,687 [main] INFO logger_File - user clicked on Macbook option
+2021-11-15 19:37:11,388 [main] INFO logger_File - user clicked on add to cart option
+2021-11-15 19:37:12,260 [main] INFO logger_File - User sees a message ‘Success: You have added MacBook to your shopping cart!’
+2021-11-15 19:37:13,701 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart UNDEFINED
