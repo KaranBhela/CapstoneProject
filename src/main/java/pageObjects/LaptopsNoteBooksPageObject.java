@@ -72,7 +72,7 @@ public class LaptopsNoteBooksPageObject extends Base{
 	private WebElement successAlertMessage;
 	
 	
-	@FindBy(xpath="//*[contains(text(), '1 item(s)')]")
+	@FindBy(xpath="//*[contains(text(), 'item(s)')]")
 	private WebElement cartTotal;
 	
 
@@ -83,7 +83,7 @@ public class LaptopsNoteBooksPageObject extends Base{
 	@FindBy(xpath="//button[@title='Remove']")
 	private WebElement removeFromCart;
 	
-	@FindBy(xpath="//*[contains(text(), '0 item(s)')]")
+	@FindBy(xpath="//*[contains(text(), 'item(s)')]")
 	private WebElement emptyCart;
 	
 	

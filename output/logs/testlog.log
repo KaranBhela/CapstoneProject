@@ -967,3 +967,106 @@
 2021-11-15 19:37:11,388 - logger_File -INFO - user clicked on add to cart option
 2021-11-15 19:37:12,260 - logger_File -INFO - User sees a message ‘Success: You have added MacBook to your shopping cart!’
 2021-11-15 19:37:13,701 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart UNDEFINED
+2021-11-18 12:32:57,328 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started
+2021-11-18 12:33:18,983 - logger_File -INFO - Actual Title is matching with expected title
+2021-11-18 12:33:20,388 - logger_File -INFO - user clicked on Laptop & Notebook tab
+2021-11-18 12:33:28,576 - logger_File -INFO - user clicked on Show all Laptop & Notebook option
+2021-11-18 12:33:38,492 - logger_File -INFO - user clicked on Macbook option
+2021-11-18 12:33:39,634 - logger_File -INFO - user clicked on add to cart option
+2021-11-18 12:33:44,235 - logger_File -INFO - User sees a message ‘Success: You have added MacBook to your shopping cart!’
+2021-11-18 12:33:46,130 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart UNDEFINED
+2021-11-18 12:42:23,558 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started
+2021-11-18 12:42:40,459 - logger_File -INFO - Actual Title is matching with expected title
+2021-11-18 12:42:42,297 - logger_File -INFO - user clicked on Laptop & Notebook tab
+2021-11-18 12:42:47,107 - logger_File -INFO - user clicked on Show all Laptop & Notebook option
+2021-11-18 12:42:54,972 - logger_File -INFO - user clicked on Macbook option
+2021-11-18 12:42:55,227 - logger_File -INFO - user clicked on add to cart option
+2021-11-18 12:42:57,077 - logger_File -INFO - User sees a message ‘Success: You have added MacBook to your shopping cart!’
+2021-11-18 12:43:02,438 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart UNDEFINED
+2021-11-18 12:56:28,018 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started
+2021-11-18 12:56:43,297 - logger_File -INFO - Actual Title is matching with expected title
+2021-11-18 12:56:44,086 - logger_File -INFO - user clicked on Laptop & Notebook tab
+2021-11-18 12:56:53,004 - logger_File -INFO - user clicked on Show all Laptop & Notebook option
+2021-11-18 12:57:01,227 - logger_File -INFO - user clicked on Macbook option
+2021-11-18 12:57:02,632 - logger_File -INFO - user clicked on add to cart option
+2021-11-18 12:57:04,294 - logger_File -INFO - User sees a message ‘Success: You have added MacBook to your shopping cart!’
+2021-11-18 12:57:09,346 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart UNDEFINED
+2021-11-18 13:07:16,785 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started
+2021-11-18 13:07:40,671 - logger_File -INFO - Actual Title is matching with expected title
+2021-11-18 13:07:41,626 - logger_File -INFO - user clicked on Laptop & Notebook tab
+2021-11-18 13:07:49,139 - logger_File -INFO - user clicked on Show all Laptop & Notebook option
+2021-11-18 13:07:59,057 - logger_File -INFO - user clicked on Macbook option
+2021-11-18 13:07:59,313 - logger_File -INFO - user clicked on add to cart option
+2021-11-18 13:08:02,334 - logger_File -INFO - User sees a message ‘Success: You have added MacBook to your shopping cart!’
+2021-11-18 13:08:07,516 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart UNDEFINED
+2021-11-18 13:11:14,584 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started
+2021-11-18 13:11:28,808 - logger_File -INFO - Actual Title is matching with expected title
+2021-11-18 13:11:30,286 - logger_File -INFO - user clicked on Laptop & Notebook tab
+2021-11-18 13:11:35,094 - logger_File -INFO - user clicked on Show all Laptop & Notebook option
+2021-11-18 13:11:41,680 - logger_File -INFO - user clicked on Macbook option
+2021-11-18 13:11:42,206 - logger_File -INFO - user clicked on add to cart option
+2021-11-18 13:11:43,690 - logger_File -INFO - User sees a message ‘Success: You have added MacBook to your shopping cart!’
+2021-11-18 13:11:48,596 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart UNDEFINED
+2021-11-18 13:16:31,887 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started
+2021-11-18 13:17:05,113 - logger_File -INFO - Actual Title is matching with expected title
+2021-11-18 13:17:06,211 - logger_File -INFO - user clicked on Laptop & Notebook tab
+2021-11-18 13:17:17,224 - logger_File -INFO - user clicked on Show all Laptop & Notebook option
+2021-11-18 13:17:26,807 - logger_File -INFO - user clicked on Macbook option
+2021-11-18 13:17:27,447 - logger_File -INFO - user clicked on add to cart option
+2021-11-18 13:17:29,416 - logger_File -INFO - User sees a message ‘Success: You have added MacBook to your shopping cart!’
+2021-11-18 13:17:30,974 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart UNDEFINED
+2021-11-18 13:18:42,742 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started
+2021-11-18 13:19:12,038 - logger_File -INFO - Actual Title is matching with expected title
+2021-11-18 13:19:12,876 - logger_File -INFO - user clicked on Laptop & Notebook tab
+2021-11-18 13:19:24,392 - logger_File -INFO - user clicked on Show all Laptop & Notebook option
+2021-11-18 13:19:34,434 - logger_File -INFO - user clicked on Macbook option
+2021-11-18 13:19:35,432 - logger_File -INFO - user clicked on add to cart option
+2021-11-18 13:19:37,537 - logger_File -INFO - User sees a message ‘Success: You have added MacBook to your shopping cart!’
+2021-11-18 13:19:39,009 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart UNDEFINED
+2021-11-29 22:23:30,640 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started
+2021-11-29 22:23:53,118 - logger_File -INFO - Actual Title is matching with expected title
+2021-11-29 22:23:53,902 - logger_File -INFO - user clicked on Laptop & Notebook tab
+2021-11-29 22:23:55,007 - logger_File -INFO - user clicked on Show all Laptop & Notebook option
+2021-11-29 22:23:58,428 - logger_File -INFO - user clicked on Macbook option
+2021-11-29 22:23:58,616 - logger_File -INFO - user clicked on add to cart option
+2021-11-29 22:23:59,186 - logger_File -INFO - User sees a message ‘Success: You have added MacBook to your shopping cart!’
+2021-11-29 22:24:04,440 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart UNDEFINED
+2021-11-29 22:24:47,904 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started
+2021-11-29 22:25:03,648 - logger_File -INFO - Actual Title is matching with expected title
+2021-11-29 22:25:04,331 - logger_File -INFO - user clicked on Laptop & Notebook tab
+2021-11-29 22:25:07,568 - logger_File -INFO - user clicked on Show all Laptop & Notebook option
+2021-11-29 22:25:11,711 - logger_File -INFO - user clicked on Macbook option
+2021-11-29 22:25:11,931 - logger_File -INFO - user clicked on add to cart option
+2021-11-29 22:25:12,899 - logger_File -INFO - User sees a message ‘Success: You have added MacBook to your shopping cart!’
+2021-11-29 22:25:17,807 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart UNDEFINED
+2021-11-29 22:26:23,398 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started
+2021-11-29 22:26:35,156 - logger_File -INFO - Actual Title is matching with expected title
+2021-11-29 22:26:35,736 - logger_File -INFO - user clicked on Laptop & Notebook tab
+2021-11-29 22:26:36,687 - logger_File -INFO - user clicked on Show all Laptop & Notebook option
+2021-11-29 22:26:40,731 - logger_File -INFO - user clicked on Macbook option
+2021-11-29 22:26:40,939 - logger_File -INFO - user clicked on add to cart option
+2021-11-29 22:26:41,841 - logger_File -INFO - User sees a message ‘Success: You have added MacBook to your shopping cart!’
+2021-11-29 22:26:46,759 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart UNDEFINED
+2021-11-29 22:29:27,079 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started
+2021-11-29 22:29:41,634 - logger_File -INFO - Actual Title is matching with expected title
+2021-11-29 22:29:43,180 - logger_File -INFO - user clicked on Laptop & Notebook tab
+2021-11-29 22:29:45,227 - logger_File -INFO - user clicked on Show all Laptop & Notebook option
+2021-11-29 22:29:51,658 - logger_File -INFO - user clicked on Macbook option
+2021-11-29 22:29:53,402 - logger_File -INFO - user clicked on add to cart option
+2021-11-29 22:29:53,639 - logger_File -INFO - User sees a message ‘Success: You have added MacBook to your shopping cart!’
+2021-11-29 22:29:54,003 - logger_File -INFO - User sees a message ‘1 item(s)-602.00’ showed to the cart
+2021-11-29 22:29:54,672 - logger_File -INFO - user clicked on cart button
+2021-11-29 22:29:55,121 - logger_File -INFO - user clicked on red X button to remove from cart
+2021-11-29 22:30:00,288 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart FAILED
+2021-11-29 22:32:59,055 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started
+2021-11-29 22:33:18,012 - logger_File -INFO - Actual Title is matching with expected title
+2021-11-29 22:33:19,096 - logger_File -INFO - user clicked on Laptop & Notebook tab
+2021-11-29 22:33:25,819 - logger_File -INFO - user clicked on Show all Laptop & Notebook option
+2021-11-29 22:33:34,292 - logger_File -INFO - user clicked on Macbook option
+2021-11-29 22:33:34,796 - logger_File -INFO - user clicked on add to cart option
+2021-11-29 22:33:36,091 - logger_File -INFO - User sees a message ‘Success: You have added MacBook to your shopping cart!’
+2021-11-29 22:33:36,592 - logger_File -INFO - User sees a message ‘1 item(s)-602.00’ showed to the cart
+2021-11-29 22:33:37,137 - logger_File -INFO - user clicked on cart button
+2021-11-29 22:33:37,445 - logger_File -INFO - user clicked on red X button to remove from cart
+2021-11-29 22:33:37,748 - logger_File -INFO - item is removed and cart should show ‘0 item(s)’
+2021-11-29 22:33:43,252 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart PASSED

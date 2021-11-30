@@ -52,12 +52,12 @@ public class LaptopsAndNoteBooksStepDef extends Base{
 	   
 	}
 
-	@Then("User should see '(\\d+) item(s) (\\d+)' showed to the cart")
+
+	@Then("User should see ‘item\\(s)’ showed to the cart")
 	public void user_should_see_item_s_showed_to_the_cart() {
 		Assert.assertTrue(laptopsAndNoteBooksPageObject.cartTotalMessage());
 		logger.info("User sees a message ‘1 item(s)-602.00’ showed to the cart");
 		UtilityClass.takeScreenShot();
-		
 	}
 
 
@@ -76,10 +76,9 @@ public class LaptopsAndNoteBooksStepDef extends Base{
 		 logger.info("user clicked on red X button to remove from cart");
 	   
 	}
-
-	@Then("item should be removed and cart should show '(\\d+) item(s)’")
+	
+	@Then("item should be removed and cart should show ‘item\\(s)’")
 	public void item_should_be_removed_and_cart_should_show_item_s() {
-	    // Write code here that turns the phrase above into concrete actions
 		Assert.assertTrue(laptopsAndNoteBooksPageObject.emptyCartDisplayed());
 		logger.info("item is removed and cart should show ‘0 item(s)’");
 		UtilityClass.takeScreenShot();

@@ -11,7 +11,7 @@
         "steps": [
           {
             "result": {
-              "duration": 1650433400,
+              "duration": 1022258100,
               "status": "passed"
             },
             "line": 5,
@@ -23,7 +23,7 @@
           },
           {
             "result": {
-              "duration": 274061800,
+              "duration": 356090600,
               "status": "passed"
             },
             "line": 6,
@@ -35,7 +35,7 @@
           },
           {
             "result": {
-              "duration": 2910045200,
+              "duration": 6689202000,
               "status": "passed"
             },
             "line": 7,
@@ -48,11 +48,11 @@
         ]
       },
       {
-        "start_timestamp": "2021-11-16T00:36:48.699Z",
+        "start_timestamp": "2021-11-30T03:32:58.159Z",
         "before": [
           {
             "result": {
-              "duration": 13156032700,
+              "duration": 19233415800,
               "status": "passed"
             },
             "match": {
@@ -67,7 +67,7 @@
         "after": [
           {
             "result": {
-              "duration": 1103277600,
+              "duration": 5141760600,
               "status": "passed"
             },
             "match": {
@@ -80,7 +80,7 @@
         "steps": [
           {
             "result": {
-              "duration": 3624263200,
+              "duration": 8474716000,
               "status": "passed"
             },
             "line": 11,
@@ -92,7 +92,7 @@
           },
           {
             "result": {
-              "duration": 699153800,
+              "duration": 492125600,
               "status": "passed"
             },
             "line": 12,
@@ -104,7 +104,7 @@
           },
           {
             "result": {
-              "duration": 1158295700,
+              "duration": 1628407400,
               "status": "passed"
             },
             "line": 13,
@@ -116,17 +116,20 @@
           },
           {
             "result": {
-              "status": "undefined"
+              "duration": 491118400,
+              "status": "passed"
             },
             "line": 14,
-            "name": "User should see ‘1 item(s) 602.00’ showed to the cart",
-            "match": {},
+            "name": "User should see ‘item(s)’ showed to the cart",
+            "match": {
+              "location": "stepDefinitions.LaptopsAndNoteBooksStepDef.user_should_see_item_s_showed_to_the_cart()"
+            },
             "keyword": "And "
           },
           {
             "result": {
-              "duration": 4032900,
-              "status": "skipped"
+              "duration": 225058000,
+              "status": "passed"
             },
             "line": 15,
             "name": "User click on cart option",
@@ -137,8 +140,8 @@
           },
           {
             "result": {
-              "duration": 1000400,
-              "status": "skipped"
+              "duration": 287074600,
+              "status": "passed"
             },
             "line": 16,
             "name": "user click on red X button to remove the item from cart",
@@ -149,11 +152,14 @@
           },
           {
             "result": {
-              "status": "skipped"
+              "duration": 657152000,
+              "status": "passed"
             },
             "line": 17,
-            "name": "item should be removed and cart should show ‘0 item()’",
-            "match": {},
+            "name": "item should be removed and cart should show ‘item(s)’",
+            "match": {
+              "location": "stepDefinitions.LaptopsAndNoteBooksStepDef.item_should_be_removed_and_cart_should_show_item_s()"
+            },
             "keyword": "Then "
           }
         ],

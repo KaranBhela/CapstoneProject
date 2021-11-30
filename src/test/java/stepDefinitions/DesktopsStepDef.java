@@ -51,9 +51,6 @@ public class DesktopsStepDef extends Base{
 		
 	}
 	
-	
-	
-	
 
 	@When("User select quantity {int}")
 	public void user_select_quantity(Integer int1) {
