@@ -20,7 +20,7 @@ import utilities.CucumberReportingConfig;
 		// plugin will be used for generating a readable report
 		features = "classpath:features",
 		glue = "stepDefinitions",
-		tags = "@shoppingCartTest", 
+		tags = "@homePageTest", 
 		dryRun = false, 
 		monochrome = true, 
 		strict = true, 
